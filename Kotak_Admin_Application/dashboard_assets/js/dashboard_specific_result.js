@@ -1,18 +1,18 @@
 ﻿$(document).ready(function () {
-    page_initialize();
-
+    var offset_value = 0;
+    var record_limit = 10;
+    page_initialize(offset_value, record_limit); 
 });
 
 //Getting input values
-function page_initialize() {
+function page_initialize(offset_value,record_limit) {
     var url = new URL(window.location.href);
     var event_id = url.searchParams.get("event_id");
     var resultsid = url.searchParams.get("resultsid");
     var channelid = url.searchParams.get("channelid");
     var f = url.searchParams.get("f");
     var t = url.searchParams.get("t");
-    var offset_value = 10;
-    var record_limit = 10;
+
     if (event_id == "" || resultsid == "" || channelid == "") {
         window.location = "";
     }
@@ -83,4 +83,43 @@ function ModalboxImage(element) {
     });
 }
 
+$('.first_btn').click(function (e) {
+    e.preventDefault();
+    $('#top_starting_index').html("0");
+    $('#bottom_starting_index').html("0");
+    var offset_value = $('#top_starting_index').html();
+    page_initialize(record_limit,offset_value);
+});
 
+$('.previous_btn').click(function (e) {
+    e.preventDefault();
+    $('#top_starting_index').html(Number($('#top_starting_index').html()) - Number(record_limit));
+    $('#bottom_starting_index').html(Number($('#bottom_starting_index').html()) - Number(record_limit));
+    var offset_value = $('#top_starting_index').html();
+    page_initialize(record_limit,offset_value);
+});
+
+$('.next_btn').click(function (e) {
+    e.preventDefault();
+    $('#top_starting_index').html(Number($('#top_starting_index').html()) + Number(record_limit) - 1);
+    $('#bottom_starting_index').html(Number($('#bottom_starting_index').html()) + Number(record_limit) - 1);
+    var offset_value = $('#top_starting_index').html();
+    page_initialize(record_limit,offset_value);
+});
+
+$('.last_btn').click(function (e) {
+    e.preventDefault();
+    var top_total_count = Number($('#top_total_count').html());
+    var last_start_index = Number(top_total_count) - (Number(top_total_count) % Number(record_limit));
+    if (Number(top_total_count) == Number(last_start_index)) {
+        $('#top_starting_index').html(Number(last_start_index) - Number(record_limit));
+        $('#bottom_starting_index').html(Number(last_start_index) - Number(record_limit));
+    }
+    else {
+        $('#top_starting_index').html(Number(last_start_index));
+        $('#bottom_starting_index').html(Number(last_start_index));
+    }
+
+    var offset_value = $('#top_starting_index').html();
+    page_initialize(record_limit,offset_value);
+});
