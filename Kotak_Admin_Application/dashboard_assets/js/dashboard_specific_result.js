@@ -11,11 +11,13 @@ function page_initialize() {
     var channelid = url.searchParams.get("channelid");
     var f = url.searchParams.get("f");
     var t = url.searchParams.get("t");
+    var offset_value = 10;
+    var record_limit = 10;
     if (event_id == "" || resultsid == "" || channelid == "") {
         window.location = "";
     }
     else {
-        get_register_success_page(event_id, resultsid, channelid, f, t);
+        get_register_success_page(event_id, resultsid, channelid, f, t, offset_value, record_limit);
     }
 }
 //Ajax call
