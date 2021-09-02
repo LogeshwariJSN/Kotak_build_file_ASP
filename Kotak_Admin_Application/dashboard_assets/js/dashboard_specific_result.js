@@ -1,6 +1,7 @@
-﻿$(document).ready(function () {
-    var offset_value = 0;
-    var record_limit = 10;
+﻿var offset_value = 0;
+var record_limit = 10;
+
+$(document).ready(function () {
     page_initialize(offset_value, record_limit); 
 });
 
@@ -39,8 +40,10 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                     if (response.Data.length == 0) {
                         $('#success_datatable').hide();
                         $('#no_data_div').show();
+                        $('#success_datatable tbody').html("");
                     }
                     else {
+                        $('#success_datatable tbody').html("");
                         for (var i = 0; i < response.Data.length; i++) {
                             var thumbnail_image_html = "";
                             for (var j = 0; j < response.Data[i].ThumbnailImage.length; j++) {
