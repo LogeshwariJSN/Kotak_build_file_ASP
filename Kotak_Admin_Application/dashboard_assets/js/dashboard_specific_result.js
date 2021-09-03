@@ -70,23 +70,8 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                             else {
                                 $('.next_btn').attr("disabled", false);
                                 $('.last_btn').attr("disabled", false);
-                                if (load_id == 0) {
-                                    $('.previous_btn').attr("disabled", true);
-                                    $('.first_btn').attr("disabled", true);
-                                }
-                                else if (load_id == 1) {
-                                    if ($('#top_starting_index').html() != "1") {
-                                        $('.previous_btn').attr("disabled", false);
-                                    }
-                                    else {
-                                        $('.previous_btn').attr("disabled", true);
-                                    }
-                                    $('.first_btn').attr("disabled", true);
-                                }
-                                else {
-                                    $('.previous_btn').attr("disabled", false);
-                                    $('.first_btn').attr("disabled", false);
-                                }
+                                $('.previous_btn').attr("disabled", false);
+                                $('.first_btn').attr("disabled", false);
                                 $('#top_ending_index').html(Number(JSON.parse(send_data).offset_value) + Number(JSON.parse(send_data).record_limit));
                                 $('#bottom_ending_index').html(Number(JSON.parse(send_data).offset_value) + Number(JSON.parse(send_data).record_limit));
                             }
@@ -143,7 +128,7 @@ $('.first_btn').click(function (e) {
     $('#top_starting_index').html("0");
     $('#bottom_starting_index').html("0");
     var offset_value = $('#top_starting_index').html();
-    page_initialize(record_limit,offset_value);
+    page_initialize(offset_value, record_limit);
 });
 
 $('.previous_btn').click(function (e) {
@@ -152,7 +137,7 @@ $('.previous_btn').click(function (e) {
     $('#top_starting_index').html(Number($('#top_starting_index').html()) - Number(record_limit));
     $('#bottom_starting_index').html(Number($('#bottom_starting_index').html()) - Number(record_limit));
     var offset_value = $('#top_starting_index').html();
-    page_initialize(record_limit,offset_value);
+    page_initialize(offset_value, record_limit);
 });
 
 $('.next_btn').click(function (e) {
@@ -161,7 +146,7 @@ $('.next_btn').click(function (e) {
     $('#top_starting_index').html(Number($('#top_starting_index').html()) + Number(record_limit) - 1);
     $('#bottom_starting_index').html(Number($('#bottom_starting_index').html()) + Number(record_limit) - 1);
     var offset_value = $('#top_starting_index').html();
-    page_initialize(record_limit,offset_value);
+    page_initialize(offset_value, record_limit);
 });
 
 $('.last_btn').click(function (e) {
@@ -179,5 +164,5 @@ $('.last_btn').click(function (e) {
     }
 
     var offset_value = $('#top_starting_index').html();
-    page_initialize(record_limit,offset_value);
+    page_initialize(offset_value,record_limit);
 });
