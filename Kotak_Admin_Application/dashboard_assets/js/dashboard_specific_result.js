@@ -45,14 +45,45 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                         $('#success_datatable tbody').empty();
                         $('#top_total_count').html(response.Data.total_records);
                         $('#bottom_total_count').html(response.Data.total_records);
-
-                        for (var i = 0; i < response.Data.DashboardSuccessImageData.length; i++) {
-                            var thumbnail_image_html = "";
-                            for (var j = 0; j < response.Data.DashboardSuccessImageData[i].ThumbnailImage.length; j++) {
-                                thumbnail_image_html += '<img style="width:100px; height:100px; border-radius:50%" src="data:image/jpeg;base64,' + response.Data.DashboardSuccessImageData[i].ThumbnailImage[j] + '" onclick="ModalboxImage(this)" />';
+                        if (response.data.Result == "Success") {
+                            $("#success_datatable thead tr").append("<th>CRN</th><th>Created Date</th><th>Result Reason</th><th>Version</th><th>Thumbnail Images</th><th>Device Details</th>");
+                            for (var i = 0; i < response.Data.DashboardSuccessImageData.length; i++) {
+                                var thumbnail_image_html = "";
+                                for (var j = 0; j < response.Data.DashboardSuccessImageData[i].ThumbnailImage.length; j++) {
+                                    thumbnail_image_html += '<img style="width:100px; height:100px; border-radius:50%" src="data:image/jpeg;base64,' + response.Data.DashboardSuccessImageData[i].ThumbnailImage[j] + '" onclick="ModalboxImage(this)" />';
+                                }
+                                $('#success_datatable tbody').append('<tr><td>' + response.Data.DashboardSuccessImageData[i].CRN + '</td> <td>' + response.Data.DashboardSuccessImageData[i].CreatedOn + '</td> <td>' + response.Data.DashboardSuccessImageData[i].ResulstReason + '</td> <td>' + response.Data.DashboardSuccessImageData[i].Version + '</td> <td>' + thumbnail_image_html + ' </td> <td>' + response.Data.DashboardSuccessImageData[i].DeviceDetails + '</td></tr>');
                             }
-                            $('#success_datatable tbody').append('<tr><td>' + response.Data.DashboardSuccessImageData[i].CRN + '</td> <td>' + response.Data.DashboardSuccessImageData[i].CreatedOn + '</td> <td>' + response.Data.DashboardSuccessImageData[i].ResulstReason + '</td> <td>' + response.Data.DashboardSuccessImageData[i].Version + '</td> <td>' + thumbnail_image_html + ' </td> <td>' + response.Data.DashboardSuccessImageData[i].DeviceDetails + '</td></tr>');
                         }
+                        else {
+                            $("#success_datatable thead tr").append("<th>CRN</th><th>Created Date</th><th>Result Reason</th><th>Version</th><th>Verify</th><th>Thumbnail Images</th><th>Failed At</th><th>Device Details</th>");
+                            for (var i = 0; i < response.Data.DashboardSPecificResultData.length; i++) {
+                                var thumbnail_image_html = "", verify_button_html = "", failure_at="";
+                                var get_event = json.parse(send_data).event_id == "1" ? "Registration" : "Verification";
+                                if (response.Data.DashboardSPecificResultData[i].ThumbnailImage != "") {
+                                    thumbnail_image_html = '<img style="width: 100px; height: 100px; border - radius: 50 % " src="data: image / jpeg; base64, ' + response.Data.DashboardSPecificResultData[i].ThumbnailImage + '" onclick="ModalboxImage(this)" />';
+                                }
+                                if (response.Data.DashboardSPecificResultData[i].ResulstReason != "") {
+                                    verify_button_html = '<div class="buttons">< div class="form-group" ><button type="submit" name="SubmitBut" onclick="CallVerify(event,'+response.Data.DashboardSPecificResultData[i].ObjectId+', '+response.Data.DashboardSPecificResultData[i].CRN+','+get_event+')" class="SubmitBtn btn btn-info text-dark" data-loading-text="<i class="fa fa-spinner fa - spin"></i> Loading..">VERIFY</button></div></div>';
+                                }
+                                var result_reason_array = ["Invalid Face", "Sun Glass", "Invalid Angle", "Face not detected", "Face mismatch"];
+                                if (jQuery.inArray(response.Data.DashboardSPecificResultData[i].ResulstReason, result_reason_array) != -1) {
+                                    failure_at = "Gate 1";
+                                }
+                                else if (response.Data.DashboardSPecificResultData[i].ResulstReason == "Fake") {
+                                    failure_at = "Gate 2";
+                                }
+                                else if (response.Data.DashboardSPecificResultData[i].ResulstReason == "Not Raise Hand" || response.Data.DashboardSPecificResultData[i].ResulstReason == "Not Smile") {
+                                    failure_at = "Gate 3";
+                                }
+                                else if (response.Data.DashboardSPecificResultData[i].ResulstReason == "Azure Registration Failed" || response.Data.DashboardSPecificResultData[i].ResulstReason == "Azure Verification Failed") {
+                                    failure_at = "Azure";
+                                }
+                                $('#success_datatable tbody').append('<tr><td>' + response.Data.DashboardSPecificResultData[i].CRN + '</td> <td>' + response.Data.DashboardSPecificResultData[i].CreatedOn + '</td> <td>' + response.Data.DashboardSPecificResultData[i].ResulstReason + '</td> <td>' + response.Data.DashboardSPecificResultData[i].Version + '</td> <td>' + verify_button_html + '</td> <td>' + thumbnail_image_html + ' </td> <td>' + failure_at + ' </td> <td>' + response.Data.DashboardSPecificResultData[i].DeviceDetails + '</td></tr>');
+                            }
+
+                        }
+                        
                   
                         if (Number(JSON.parse(send_data).record_limit) < response.Data.total_records) {
                             $("#top_div").show();
