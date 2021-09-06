@@ -109,6 +109,12 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                                 if (Number(JSON.parse(send_data).offset_value) == 0 || Number(JSON.parse(send_data).offset_value) == 1) {
                                     $('.next_btn').attr("disabled", false);
                                     $('.last_btn').attr("disabled", false);
+                                    $('.previous_btn').attr("disabled", true);
+                                    $('.first_btn').attr("disabled", true);
+                                }
+                                else {
+                                    $('.next_btn').attr("disabled", false);
+                                    $('.last_btn').attr("disabled", false);
                                     $('.previous_btn').attr("disabled", false);
                                     $('.first_btn').attr("disabled", false);
                                 }
