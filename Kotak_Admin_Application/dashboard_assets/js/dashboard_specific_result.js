@@ -66,7 +66,7 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                                     thumbnail_image_html = '<img style="width: 100px; height: 100px; border - radius: 50 % " src="data: image / jpeg; base64, ' + response.Data.DashboardSPecificResultData[i].ThumbnailImage + '" onclick="ModalboxImage(this)" />';
                                 }
                                 if (response.Data.DashboardSPecificResultData[i].ResulstReason != "" || response.Data.DashboardSPecificResultData[i].ResulstReason != "") {
-                                    verify_button_html = '<div class="buttons"><div class="form-group" ><button type="submit" name="SubmitBut" onclick="CallVerify(event,'+response.Data.DashboardSPecificResultData[i].ObjectId+', '+response.Data.DashboardSPecificResultData[i].CRN+','+get_event+')" class="SubmitBtn btn btn-info text-dark" data-loading-text="<i class=fa fa-spinner fa-spin></i> Loading..">VERIFY</button></div></div>';
+                                    verify_button_html = '<div class="buttons"><div class="form-group" ><button type="submit" name="SubmitBut" onclick="CallVerify("'+response.Data.DashboardSPecificResultData[i].ObjectId+'", "'+response.Data.DashboardSPecificResultData[i].CRN+'","'+get_event+'")" class="SubmitBtn btn btn-info text-dark" data-loading-text="<i class=fa fa-spinner fa-spin></i> Loading..">VERIFY</button></div></div>';
                                 }
                                 var result_reason_array = ["Invalid Face", "Sun Glass", "Invalid Angle", "Face not detected", "Face mismatch"];
                                 if (jQuery.inArray(response.Data.DashboardSPecificResultData[i].ResulstReason, result_reason_array) != -1) {
@@ -204,7 +204,7 @@ $('.last_btn').click(function (e) {
     page_initialize(offset_value,record_limit);
 });
 
-function CallVerify(event, ObjectId, CRN, Event) {
+function CallVerify(ObjectId, CRN, Event) {
     //console.log(event);
     let but = event.currentTarget;
     $(".SubmitBtn").prop('disabled', true);

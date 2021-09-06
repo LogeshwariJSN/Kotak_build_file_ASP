@@ -242,39 +242,7 @@
     <script src="~/dashboard_assets/datatables/DataTables-1.10.16/js/dataTables.bootstrap4.min.js"></script>
 
     <script>
-        function CallVerify(event, ObjectId, CRN, Event) {
-            //console.log(event);
-            let but = event.currentTarget;
-            $(".SubmitBtn").prop('disabled', true);
-            but.innerHTML = but.getAttribute("data-loading-text");
-            let send_data = JSON.stringify({ ObjectId: ObjectId, CRN: CRN, Event: Event });
-            $.ajax({
-                type: "POST",
-                contentType: "application/json",
-                datatype: "json",
-                data: send_data,
-                url: "/Home/DoVerification",
-                success: function (response) {
-                    //let json = JSON.parse(response);
-                    //console.log(response);
-                    if (response.StatusCode == 200) {
-                        Modalbox(response.Message, response.Image);
-                    }
-                    else {
-                        ErrorModalbox(response.Message);
-                    }
-
-                    //console.log(response.StatusCode);
-                    but.innerHTML = "VERIFY";
-                    $(".SubmitBtn").prop('disabled', false);
-                },
-                error: function (response) {
-                    ErrorModalbox("Something went wrong");
-                    but.innerHTML = "VERIFY";
-                    $(".SubmitBtn").prop('disabled', false);
-                }
-            });
-        }
+        
         function ErrorModalbox(message) {
             let html = '<div class="modal show" id="alert_popup" role="dialog" data-keyboard="false" data-backdrop="static"><div class="modal-dialog"><div class="modal-content"><div class="modal-body"><h4 class="text-center" >' + message + '</h4><br><center><button type="button" id="modalButton" class="btn btn-primary"> Okay </button></center></div></div></div></div>';
 
