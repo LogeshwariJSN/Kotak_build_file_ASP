@@ -45,6 +45,7 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                         $('#success_datatable tbody').empty();
                         $('#top_total_count').html(response.Data.total_records);
                         $('#bottom_total_count').html(response.Data.total_records);
+
                         for (var i = 0; i < response.Data.DashboardSuccessImageData.length; i++) {
                             var thumbnail_image_html = "";
                             for (var j = 0; j < response.Data.DashboardSuccessImageData[i].ThumbnailImage.length; j++) {
@@ -103,7 +104,6 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
             }
         },
         error: function (response) {
-            //window.location = '/WW/Manage_Surveys/';
             $('#success_datatable').hide();
             $('#no_data_div').show();
         }
