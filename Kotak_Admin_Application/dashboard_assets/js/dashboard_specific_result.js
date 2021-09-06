@@ -40,12 +40,14 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                         $('#success_datatable').hide();
                         $('#no_data_div').show();
                         $('#success_datatable tbody').empty();
+                        $('#success_datatable thead tr').empty();
                     }
                     else {
                         $('#success_datatable tbody').empty();
+                        $('#success_datatable thead tr').empty();
                         $('#top_total_count').html(response.Data.total_records);
                         $('#bottom_total_count').html(response.Data.total_records);
-                        if (response.data.Result == "Success") {
+                        if (response.Result == "Success") {
                             $("#success_datatable thead tr").append("<th>CRN</th><th>Created Date</th><th>Result Reason</th><th>Version</th><th>Thumbnail Images</th><th>Device Details</th>");
                             for (var i = 0; i < response.Data.DashboardSuccessImageData.length; i++) {
                                 var thumbnail_image_html = "";
@@ -58,13 +60,13 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                         else {
                             $("#success_datatable thead tr").append("<th>CRN</th><th>Created Date</th><th>Result Reason</th><th>Version</th><th>Verify</th><th>Thumbnail Images</th><th>Failed At</th><th>Device Details</th>");
                             for (var i = 0; i < response.Data.DashboardSPecificResultData.length; i++) {
-                                var thumbnail_image_html = "", verify_button_html = "", failure_at="";
-                                var get_event = json.parse(send_data).event_id == "1" ? "Registration" : "Verification";
-                                if (response.Data.DashboardSPecificResultData[i].ThumbnailImage != "") {
+                                var thumbnail_image_html = "", verify_button_html = "", failure_at="", result_reason="";
+                                var get_event = JSON.parse(send_data).event_id == "1" ? "Registration" : "Verification";
+                                if (response.Data.DashboardSPecificResultData[i].ThumbnailImage != "" || response.Data.DashboardSPecificResultData[i].ThumbnailImage != null) {
                                     thumbnail_image_html = '<img style="width: 100px; height: 100px; border - radius: 50 % " src="data: image / jpeg; base64, ' + response.Data.DashboardSPecificResultData[i].ThumbnailImage + '" onclick="ModalboxImage(this)" />';
                                 }
-                                if (response.Data.DashboardSPecificResultData[i].ResulstReason != "") {
-                                    verify_button_html = '<div class="buttons">< div class="form-group" ><button type="submit" name="SubmitBut" onclick="CallVerify(event,'+response.Data.DashboardSPecificResultData[i].ObjectId+', '+response.Data.DashboardSPecificResultData[i].CRN+','+get_event+')" class="SubmitBtn btn btn-info text-dark" data-loading-text="<i class="fa fa-spinner fa - spin"></i> Loading..">VERIFY</button></div></div>';
+                                if (response.Data.DashboardSPecificResultData[i].ResulstReason != "" || response.Data.DashboardSPecificResultData[i].ResulstReason != "") {
+                                    verify_button_html = '<div class="buttons"><div class="form-group" ><button type="submit" name="SubmitBut" onclick="CallVerify(event,'+response.Data.DashboardSPecificResultData[i].ObjectId+', '+response.Data.DashboardSPecificResultData[i].CRN+','+get_event+')" class="SubmitBtn btn btn-info text-dark" data-loading-text="<i class=fa fa-spinner fa-spin></i> Loading..">VERIFY</button></div></div>';
                                 }
                                 var result_reason_array = ["Invalid Face", "Sun Glass", "Invalid Angle", "Face not detected", "Face mismatch"];
                                 if (jQuery.inArray(response.Data.DashboardSPecificResultData[i].ResulstReason, result_reason_array) != -1) {
@@ -79,7 +81,11 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                                 else if (response.Data.DashboardSPecificResultData[i].ResulstReason == "Azure Registration Failed" || response.Data.DashboardSPecificResultData[i].ResulstReason == "Azure Verification Failed") {
                                     failure_at = "Azure";
                                 }
-                                $('#success_datatable tbody').append('<tr><td>' + response.Data.DashboardSPecificResultData[i].CRN + '</td> <td>' + response.Data.DashboardSPecificResultData[i].CreatedOn + '</td> <td>' + response.Data.DashboardSPecificResultData[i].ResulstReason + '</td> <td>' + response.Data.DashboardSPecificResultData[i].Version + '</td> <td>' + verify_button_html + '</td> <td>' + thumbnail_image_html + ' </td> <td>' + failure_at + ' </td> <td>' + response.Data.DashboardSPecificResultData[i].DeviceDetails + '</td></tr>');
+                                if (response.Data.DashboardSPecificResultData[i].ResulstReason != "" || response.Data.DashboardSPecificResultData[i].ResulstReason != null) {
+                                    result_reason = response.Data.DashboardSPecificResultData[i].ResulstReason;
+                                }
+
+                                $('#success_datatable tbody').append('<tr><td>' + response.Data.DashboardSPecificResultData[i].CRN + '</td> <td>' + response.Data.DashboardSPecificResultData[i].CreatedOn + '</td> <td>' + result_reason + '</td> <td>' + response.Data.DashboardSPecificResultData[i].Version + '</td> <td>' + verify_button_html + '</td> <td>' + thumbnail_image_html + ' </td> <td>' + failure_at + ' </td> <td>' + response.Data.DashboardSPecificResultData[i].DeviceDetails + '</td></tr>');
                             }
 
                         }
@@ -197,3 +203,37 @@ $('.last_btn').click(function (e) {
     var offset_value = $('#top_starting_index').html();
     page_initialize(offset_value,record_limit);
 });
+
+function CallVerify(event, ObjectId, CRN, Event) {
+    //console.log(event);
+    let but = event.currentTarget;
+    $(".SubmitBtn").prop('disabled', true);
+    but.innerHTML = but.getAttribute("data-loading-text");
+    let send_data = JSON.stringify({ ObjectId: ObjectId, CRN: CRN, Event: Event });
+    $.ajax({
+        type: "POST",
+        contentType: "application/json",
+        datatype: "json",
+        data: send_data,
+        url: "/Home/DoVerification",
+        success: function (response) {
+            //let json = JSON.parse(response);
+            //console.log(response);
+            if (response.StatusCode == 200) {
+                Modalbox(response.Message, response.Image);
+            }
+            else {
+                ErrorModalbox(response.Message);
+            }
+
+            //console.log(response.StatusCode);
+            but.innerHTML = "VERIFY";
+            $(".SubmitBtn").prop('disabled', false);
+        },
+        error: function (response) {
+            ErrorModalbox("Something went wrong");
+            but.innerHTML = "VERIFY";
+            $(".SubmitBtn").prop('disabled', false);
+        }
+    });
+}
