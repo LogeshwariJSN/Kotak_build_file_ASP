@@ -94,8 +94,8 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                         if (Number(JSON.parse(send_data).record_limit) < response.Data.total_records) {
                             $("#top_div").show();
                             $("#bottom_div").show();
-                            $('#top_starting_index').html(Number(JSON.parse(send_data).offset_value) + 1);
-                            $('#bottom_starting_index').html(Number(JSON.parse(send_data).offset_value) + 1);
+                            //$('#top_starting_index').html(Number(JSON.parse(send_data).offset_value) + 1);
+                            //$('#bottom_starting_index').html(Number(JSON.parse(send_data).offset_value) + 1);
 
                             if ((Number(JSON.parse(send_data).offset_value) + Number(JSON.parse(send_data).record_limit)) >= response.Data.total_records) {
                                 $('#top_ending_index').html(response.Data.total_records);
@@ -106,12 +106,14 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                                 $('.first_btn').attr("disabled", false);
                             }
                             else {
-                                $('.next_btn').attr("disabled", false);
-                                $('.last_btn').attr("disabled", false);
-                                $('.previous_btn').attr("disabled", false);
-                                $('.first_btn').attr("disabled", false);
-                                $('#top_ending_index').html(Number(JSON.parse(send_data).offset_value) + Number(JSON.parse(send_data).record_limit));
-                                $('#bottom_ending_index').html(Number(JSON.parse(send_data).offset_value) + Number(JSON.parse(send_data).record_limit));
+                                if (Number(JSON.parse(send_data).offset_value) == 0 || Number(JSON.parse(send_data).offset_value) == 1) {
+                                    $('.next_btn').attr("disabled", false);
+                                    $('.last_btn').attr("disabled", false);
+                                    $('.previous_btn').attr("disabled", false);
+                                    $('.first_btn').attr("disabled", false);
+                                }
+                                //$('#top_ending_index').html(Number(JSON.parse(send_data).offset_value) + Number(JSON.parse(send_data).record_limit));
+                                //$('#bottom_ending_index').html(Number(JSON.parse(send_data).offset_value) + Number(JSON.parse(send_data).record_limit));
                             }
                             $('#top_total_count').html(response.Data.total_records);
                             $('#bottom_total_count').html(response.Data.total_records);
@@ -162,28 +164,45 @@ function ModalboxImage(element) {
 $('.first_btn').click(function (e) {
     e.preventDefault();
     var record_limit = 10;
-    $('#top_starting_index').html("0");
-    $('#bottom_starting_index').html("0");
+    $('#top_starting_index').html("1");
+    $('#bottom_starting_index').html("1");
+    $('#top_ending_index').html(Number(record_limit));
+    $('#bottom_ending_index').html(Number(record_limit));
     var offset_value = $('#top_starting_index').html();
-    page_initialize(offset_value, record_limit);
+    page_initialize(Number(offset_value)-1, record_limit);
 });
 
 $('.previous_btn').click(function (e) {
     e.preventDefault();
     var record_limit = 10;
-    $('#top_starting_index').html(Number($('#top_starting_index').html()) - Number(record_limit));
-    $('#bottom_starting_index').html(Number($('#bottom_starting_index').html()) - Number(record_limit));
+    var top_ending_index = $('#top_ending_index').html();
+    var top_total_count = $('#top_total_count').html();
+    var last_start_index = (Number(top_total_count) % Number(record_limit));
+    if (top_ending_index == top_total_count) {
+        $('#top_ending_index').html(Number($('#top_ending_index').html()) - Number(record_limit) + last_start_index);
+        $('#bottom_ending_index').html(Number($('#bottom_ending_index').html()) - Number(record_limit) + last_start_index);
+        $('#top_starting_index').html(Number($('#top_starting_index').html()) - Number(record_limit) + 1);
+        $('#bottom_starting_index').html(Number($('#bottom_starting_index').html()) - Number(record_limit) + 1);
+    }
+    else {
+        $('#top_ending_index').html(Number($('#top_ending_index').html()) - Number(record_limit));
+        $('#bottom_ending_index').html(Number($('#bottom_ending_index').html()) - Number(record_limit));
+        $('#top_starting_index').html(Number($('#top_starting_index').html()) - Number(record_limit));
+        $('#bottom_starting_index').html(Number($('#bottom_starting_index').html()) - Number(record_limit));
+    }
     var offset_value = $('#top_starting_index').html();
-    page_initialize(offset_value, record_limit);
+    page_initialize(Number(offset_value)-1, record_limit);
 });
 
 $('.next_btn').click(function (e) {
     e.preventDefault();
     var record_limit = 10;
-    $('#top_starting_index').html(Number($('#top_starting_index').html()) + Number(record_limit) - 1);
-    $('#bottom_starting_index').html(Number($('#bottom_starting_index').html()) + Number(record_limit) - 1);
+    $('#top_starting_index').html(Number($('#top_starting_index').html()) + Number(record_limit));
+    $('#bottom_starting_index').html(Number($('#bottom_starting_index').html()) + Number(record_limit));
+    $('#top_ending_index').html(Number($('#top_ending_index').html()) + Number(record_limit));
+    $('#bottom_ending_index').html(Number($('#bottom_ending_index').html()) + Number(record_limit));
     var offset_value = $('#top_starting_index').html();
-    page_initialize(offset_value, record_limit);
+    page_initialize(Number(offset_value) - 1, record_limit);
 });
 
 $('.last_btn').click(function (e) {
