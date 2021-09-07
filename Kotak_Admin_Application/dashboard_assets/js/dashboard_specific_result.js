@@ -185,10 +185,10 @@ $('.previous_btn').click(function (e) {
     var top_total_count = $('#top_total_count').html();
     var last_start_index = (Number(top_total_count) % Number(record_limit));
     if (top_ending_index == top_total_count) {
-        $('#top_ending_index').html(Number($('#top_ending_index').html()) - Number(record_limit) + last_start_index);
-        $('#bottom_ending_index').html(Number($('#bottom_ending_index').html()) - Number(record_limit) + last_start_index);
-        $('#top_starting_index').html(Number($('#top_starting_index').html()) - Number(record_limit) + 1);
-        $('#bottom_starting_index').html(Number($('#bottom_starting_index').html()) - Number(record_limit) + 1);
+        $('#top_ending_index').html(Number($('#top_ending_index').html()) - last_start_index);
+        $('#bottom_ending_index').html(Number($('#bottom_ending_index').html()) - last_start_index);
+        $('#top_starting_index').html(Number($('#top_starting_index').html()) - Number(record_limit));
+        $('#bottom_starting_index').html(Number($('#bottom_starting_index').html()) - Number(record_limit));
     }
     else {
         $('#top_ending_index').html(Number($('#top_ending_index').html()) - Number(record_limit));
@@ -217,12 +217,12 @@ $('.last_btn').click(function (e) {
     var top_total_count = Number($('#top_total_count').html());
     var last_start_index = Number(top_total_count) - (Number(top_total_count) % Number(record_limit));
     if (Number(top_total_count) == Number(last_start_index)) {
-        $('#top_starting_index').html(Number(last_start_index) - Number(record_limit));
-        $('#bottom_starting_index').html(Number(last_start_index) - Number(record_limit));
+        $('#top_starting_index').html(Number(last_start_index) - Number(record_limit)+1);
+        $('#bottom_starting_index').html(Number(last_start_index) - Number(record_limit)+1);
     }
     else {
-        $('#top_starting_index').html(Number(last_start_index));
-        $('#bottom_starting_index').html(Number(last_start_index));
+        $('#top_starting_index').html(Number(last_start_index)+1);
+        $('#bottom_starting_index').html(Number(last_start_index)+1);
     }
 
     var offset_value = $('#top_starting_index').html();
