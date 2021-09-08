@@ -279,7 +279,8 @@ function CallVerify(ObjectId, CRN, Event) {
     });
 }
 
-function dashboard_heading() {
-    var html = '<div class="top_header"><div class="row"><div class="col-12 col-sm-12 col-xs-12 text-left"><h1>Kotak Facial Recognition ' + get_channel_head + ' ' + get_result_head + ' ' + get_event_head + ' @ViewBag.Event Report</h1 ></div ></div ></div > ';
-    document.getElementById("dashboard_head_div").innerHTML = html;
-}
+
+//function dashboard_heading() {
+//    var html = '<div class="top_header"><div class="row"><div class="col-12 col-sm-12 col-xs-12 text-left"><h1>Kotak Facial Recognition ' + get_channel_head + ' ' + get_result_head + ' ' + get_event_head + ' Report</h1 ></div ></div ></div > ';
+//    document.getElementById("dashboard_head_div").innerHTML = html;
+//}
