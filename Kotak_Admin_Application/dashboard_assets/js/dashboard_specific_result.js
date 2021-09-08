@@ -25,9 +25,9 @@ function page_initialize(offset_value,record_limit) {
 function get_register_success_page(event_id, resultsid, channelid, f, t, offset_value, record_limit) {
     var main_obj = { event_id: event_id, resultsid: resultsid, channelid: channelid, f: f, t: t, offset_value: offset_value, record_limit: record_limit }
     var send_data = JSON.stringify(main_obj);
-    //var get_event_head = JSON.parse(send_data).event_id == "1" ? "Registration" : "Verification";
-    //var get_channel_head = JSON.parse(send_data).channelid == 0 ? "" : channelid == 1 ? "Mobile-Android" : channelid == 2 ? "Mobile-IOS" : channelid == 3 ? "Net Banking" : "Branch";
-    //var get_result_head = JSON.parse(send_data).resultsid == "1" ? "Success" : "Failure";
+    var get_event_head = JSON.parse(send_data).event_id == "1" ? "Registration" : "Verification";
+    var get_channel_head = JSON.parse(send_data).channelid == 0 ? "" : channelid == 1 ? "Mobile-Android" : channelid == 2 ? "Mobile-IOS" : channelid == 3 ? "Net Banking" : "Branch";
+    var get_result_head = JSON.parse(send_data).resultsid == "1" ? "Success" : "Failure";
                         //console.log("Event = " + get_event_head + "Channel = " + get_channel_head + "Result = " + get_result_head);
     console.log(send_data);
     $.ajax({
@@ -277,4 +277,9 @@ function CallVerify(ObjectId, CRN, Event) {
             $(".SubmitBtn").prop('disabled', false);
         }
     });
+}
+
+function dashboard_heading() {
+    var html = '<div class="top_header"><div class="row"><div class="col-12 col-sm-12 col-xs-12 text-left"><h1>Kotak Facial Recognition ' + get_channel_head + ' ' + get_result_head + ' ' + get_event_head + ' @ViewBag.Event Report</h1 ></div ></div ></div > ';
+    document.getElementById("dashboard_head_div").innerHTML = html;
 }
