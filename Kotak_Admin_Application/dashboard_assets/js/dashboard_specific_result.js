@@ -47,6 +47,8 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                         $('#success_datatable thead tr').empty();
                         $('#top_total_count').html(response.Data.total_records);
                         $('#bottom_total_count').html(response.Data.total_records);
+
+                        //Dashboard Success Report Data
                         if (response.Result == "Success") {
                             $("#success_datatable thead tr").append("<th>CRN</th><th>Created Date</th><th>Result Reason</th><th>Version</th><th>Thumbnail Images</th><th>Device Details</th>");
                             for (var i = 0; i < response.Data.DashboardSuccessImageData.length; i++) {
@@ -58,16 +60,22 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                             }
                         }
                         else {
+                            //Dashboard Failure Report Data
                             $("#success_datatable thead tr").append("<th>CRN</th><th>Created Date</th><th>Result Reason</th><th>Version</th><th>Verify</th><th>Thumbnail Images</th><th>Failed At</th><th>Device Details</th>");
+                            //Thumbnail Images
                             for (var i = 0; i < response.Data.DashboardSPecificResultData.length; i++) {
                                 var thumbnail_image_html = "", verify_button_html = "", failure_at="", result_reason="";
                                 var get_event = JSON.parse(send_data).event_id == "1" ? "Registration" : "Verification";
                                 if (response.Data.DashboardSPecificResultData[i].ThumbnailImage != "" || response.Data.DashboardSPecificResultData[i].ThumbnailImage != null) {
                                     thumbnail_image_html = '<img style="width: 100px; height: 100px; border - radius: 50 % " src="data: image / jpeg; base64, ' + response.Data.DashboardSPecificResultData[i].ThumbnailImage + '" onclick="ModalboxImage(this)" />';
                                 }
+
+                                //Verify Button
                                 if (response.Data.DashboardSPecificResultData[i].ResulstReason != "" || response.Data.DashboardSPecificResultData[i].ResulstReason != "") {
                                     verify_button_html = '<div class="buttons"><div class="form-group" ><button type="submit" name="SubmitBut" onclick="CallVerify(&apos;' + response.Data.DashboardSPecificResultData[i].ObjectId + '&apos;, &apos;' + response.Data.DashboardSPecificResultData[i].CRN + '&apos;,&apos;' + get_event +'&apos;)" class="SubmitBtn btn btn-info text-dark" data-loading-text="<i class=fa fa-spinner fa-spin></i> Loading..">VERIFY</button></div></div>';
                                 }
+
+                                //Gate Failed At
                                 var result_reason_array = ["Invalid Face", "Sun Glass", "Invalid Angle", "Face not detected", "Face mismatch"];
                                 if (jQuery.inArray(response.Data.DashboardSPecificResultData[i].ResulstReason, result_reason_array) != -1) {
                                     failure_at = "Gate 1";
@@ -167,6 +175,8 @@ function ModalboxImage(element) {
     });
 }
 
+
+//Pagination
 $('.first_btn').click(function (e) {
     e.preventDefault();
     var record_limit = 10;

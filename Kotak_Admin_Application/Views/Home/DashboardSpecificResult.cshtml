@@ -164,6 +164,109 @@
                                 </div>
                             </div>
                         </div>
+
+                        <!--Filter div start-->
+                        <div class="row page_header">
+                            <div class="col-xl-12 col-sm-12 col-12">
+                                <div class="shadow border-0 card" style="margin-bottom:5px;">
+                                    <div class="card-header bg-primary text-white card_pointer" style="padding: 0.2rem 1.25rem;" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Filters</div>
+                                    <div class="collapse" id="collapseExample">
+                                        <div class="card-body" style="padding: 0.5rem;">
+                                            <form action="@Url.Action("Index")" method="POST">
+                                                <div class="row">
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">CRN</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <input type="text" class="text_font form-control" id="cf" name="cf" placeholder="Enter CRN" maxlength="20">
+                                                    </div>
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">Events</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <select class="text_font form-control" id="events_filter" name="ef">
+                                                            <option selected disabled>Select Events</option>
+                                                            @foreach (var med in Model.MasterEventsFetch)
+                                                            {
+                                                                <option value="@med.EVENT_ID">@med.EVENT_NAME</option>
+                                                            }
+                                                        </select>
+                                                    </div>
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">Status</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <select class="text_font form-control" id="status_filter" name="sf">
+                                                            <option selected disabled>Select Status</option>
+                                                            @foreach (var msd in Model.MasterStatusFetch)
+                                                            {
+                                                                <option value="@msd.status_id">@msd.status_name</option>
+                                                            }
+                                                        </select>
+                                                    </div>
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">Version</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <select class="text_font form-control" id="version_filter" name="version">
+                                                            <option selected disabled>Select Version</option>
+                                                            @foreach (var ver in Model.Versions)
+                                                            {
+                                                                <option value="@ver">@ver</option>
+                                                            }
+                                                        </select>
+                                                    </div>
+
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-md-12 col-sm-12 col-lg-12">
+                                                        <label class="date_range_label">Date Range</label>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">From Date</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <input type="date" class="text_font form-control" id="from_date_filter" name="f" onchange="FDate('from_date_filter')">
+                                                    </div>
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">To Date</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <input type="date" class="text_font form-control" id="to_date_filter" name="t" onchange="TDate('to_date_filter')">
+                                                    </div>
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">Gate</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <select class="text_font form-control" id="gate_filter" name="gf">
+                                                            <option selected disabled>Select Gate</option>
+                                                            @foreach (var mgf in Model.MasterGateFetch)
+                                                            {
+                                                                <option value="@mgf.GATE_NUMBER">Gate @mgf.GATE_NUMBER</option>
+                                                            }
+                                                        </select>
+                                                    </div>
+                                                    <div class="col-md-3 col-sm-3 col-lg-3">
+                                                        <button type="submit" class="btn btn-primary" style="background:#013567;">Search</button>
+                                                        <button type="button" class="btn btn-primary" style="background:#013567;" id="reset_btn">Reset</button>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-md-9 col-sm-9 col-lg-9">
+                                                        <center><p id="filter_date_err_msg"></p></center>
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <!--Filter div end-->
+
                         <div class="table-responsive">
                             <div class="row mt-3 mb-3" id="top_div">
                                 <div class="col-12 col-sm-12 col-xs-12 col-md-6 col-lg-6 col-xl-6 text-left">
