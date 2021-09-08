@@ -53,14 +53,11 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                         var get_event_head = JSON.parse(send_data).event_id == "1" ? "Registration" : "Verification";
                         var get_channel_head = JSON.parse(send_data).channelid == 0 ? "" : channelid == 1 ? "Mobile-Android" : channelid == 2 ? "Mobile-IOS" : channelid == 3 ? "Net Banking" : "Branch";
                         var get_result_head = JSON.parse(send_data).resultsid == "1" ? "Success" : "Failure";
+                        //console.log("Event = " + get_event_head + "Channel = " + get_channel_head + "Result = " + get_result_head);
 
                         verify_button_html = '<div class="buttons"><div class="form-group" ><button type="submit" name="SubmitBut" onclick="CallVerify(&apos;' + response.Data.DashboardSPecificResultData[i].ObjectId + '&apos;, &apos;' + response.Data.DashboardSPecificResultData[i].CRN + '&apos;,&apos;' + get_event + '&apos;)" class="SubmitBtn btn btn-info text-dark" data-loading-text="<i class=fa fa-spinner fa-spin></i> Loading..">VERIFY</button></div></div>';
 
                         if (response.Result == "Success") {
-                            var h = document.createElement("H1"); // Create the H1 element 
-                            var t = document.createTextNode('<div class="top_header"><div class= "row"><div class="col-12 col-sm-12 col-xs-12 text-left"><h1>Kotak Facial Recognition '+get_channel_head+' '+ get_result_head+' '+get_event_head+' Report</h1></div></div></div>');  
-                            h.appendChild(t);
-                            //document.body.appendChild(h);
                             $("#success_datatable thead tr").append("<th>CRN</th><th>Created Date</th><th>Result Reason</th><th>Version</th><th>Thumbnail Images</th><th>Device Details</th>");
                             for (var i = 0; i < response.Data.DashboardSuccessImageData.length; i++) {
                                 var thumbnail_image_html = "";
