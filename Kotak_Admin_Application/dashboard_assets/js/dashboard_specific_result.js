@@ -284,3 +284,11 @@ function CallVerify(ObjectId, CRN, Event) {
 //    var html = '<div class="top_header"><div class="row"><div class="col-12 col-sm-12 col-xs-12 text-left"><h1>Kotak Facial Recognition ' + get_channel_head + ' ' + get_result_head + ' ' + get_event_head + ' Report</h1 ></div ></div ></div > ';
 //    document.getElementById("dashboard_head_div").innerHTML = html;
 //}
+
+function dashboard_heading(get_event_head, get_channel_head, get_result_head) {
+    var get_event_head = JSON.parse(send_data).event_id == "1" ? "Registration" : "Verification";
+    var get_channel_head = JSON.parse(send_data).channelid == 0 ? "" : channelid == 1 ? "Mobile-Android" : channelid == 2 ? "Mobile-IOS" : channelid == 3 ? "Net Banking" : "Branch";
+    var get_result_head = JSON.parse(send_data).resultsid == "1" ? "Success" : "Failure";
+    //console.log("Event = " + get_event_head + "Channel = " + get_channel_head + "Result = " + get_result_head);
+    document.getElementById("dashboard_head").innerHTML = 'Kotak Facial Recognition ' + get_channel_head + ' ' + get_result_head + ' ' + get_event_head + ' Report';
+}

@@ -165,7 +165,13 @@
                 </div>
             </div>
         </div>*@
-                        <p id="dashboard_head">test</p>
+                        <div class="top_header">
+                            <div class="row">
+                                <div class="col-12 col-sm-12 col-xs-12 text-left">
+                                    <h1 id="dashboard_head" onload="dashboard_heading(get_event_head, get_channel_head, get_result_head)"></h1>
+                                </div>
+                            </div>
+                        </div>
 
                         <div class="table-responsive">
                             <div class="row mt-3 mb-3" id="top_div">
@@ -214,16 +220,16 @@
                             </div>
                         </div>
                     </div>
-                    <br>
-                    <footer class="gx-footer page_header">
-                        <div class="d-flex flex-row justify-content-between">
-                            <p> Copyright Kotak Mahindra Bank Limited. © 2019</p>
-                        </div>
-                    </footer>
+                                <br>
+                                <footer class="gx-footer page_header">
+                                    <div class="d-flex flex-row justify-content-between">
+                                        <p> Copyright Kotak Mahindra Bank Limited. © 2019</p>
+                                    </div>
+                                </footer>
 
-                </div>
-            </div>
-        </div>
+                            </div>
+                        </div>
+                    </div>
         <!-- /main container -->
     </div>
     <!-- /page container -->
@@ -278,13 +284,7 @@
 
         $("#datatable").dataTable({ "aaSorting": [] });
 
-        function dashboard_heading() {
-            var get_event_head = JSON.parse(send_data).event_id == "1" ? "Registration" : "Verification";
-            var get_channel_head = JSON.parse(send_data).channelid == 0 ? "" : channelid == 1 ? "Mobile-Android" : channelid == 2 ? "Mobile-IOS" : channelid == 3 ? "Net Banking" : "Branch";
-            var get_result_head = JSON.parse(send_data).resultsid == "1" ? "Success" : "Failure";
-                        //console.log("Event = " + get_event_head + "Channel = " + get_channel_head + "Result = " + get_result_head);
-            document.getElementById("dashboard_head").innerHTML = '<div class="top_header"><div class="row"><div class="col-12 col-sm-12 col-xs-12 text-left"><h1>Kotak Facial Recognition ' + get_channel_head + ' ' + get_result_head + ' ' + get_event_head + ' Report</h1 ></div ></div ></div >';
-        }
+       
     </script>
 
 </body>
