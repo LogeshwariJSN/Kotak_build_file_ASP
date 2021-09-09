@@ -284,7 +284,7 @@ function CallVerify(ObjectId, CRN, Event) {
 //    document.getElementById("dashboard_head").innerHTML = 'Kotak Facial Recognition ' + get_channel_head + ' ' + get_result_head + ' ' + get_event_head + ' Report';
 //}
 
-function dashboard_heading() {
+$(document).ready(function () {
     var url = new URL(window.location.href);
     var event_id = url.searchParams.get("event_id");
     var channelid = url.searchParams.get("channelid");
@@ -294,5 +294,5 @@ function dashboard_heading() {
     var get_channel_head = channelid == 0 ? "" : channelid == 1 ? "Mobile-Android" : channelid == 2 ? "Mobile-IOS" : channelid == 3 ? "Net Banking" : "Branch";
     var get_result_head = resultsid == "1" ? "Success" : "Failure";
     //console.log("Event = " + get_event_head + "Channel = " + get_channel_head + "Result = " + get_result_head);
-    document.getElementById("dashboard_head").innerHTML = 'Kotak Facial Recognition ' + get_channel_head + ' ' + get_result_head + ' ' + get_event_head + ' Report';
-}
+    $("#dashboard_head").html('Kotak Facial Recognition ' + get_channel_head + ' ' + get_result_head + ' ' + get_event_head + ' Report');
+});
