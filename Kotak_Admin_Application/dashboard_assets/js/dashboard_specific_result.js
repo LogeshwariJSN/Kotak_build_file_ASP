@@ -1,7 +1,17 @@
 ﻿$(document).ready(function () {
     var offset_value = 0;
     var record_limit = 10;
-    page_initialize(offset_value, record_limit); 
+    page_initialize(offset_value, record_limit);
+
+    var url = new URL(window.location.href);
+    var event_id = url.searchParams.get("event_id");
+    var channelid = url.searchParams.get("channelid");
+    var resultsid = url.searchParams.get("resultsid");
+
+    var get_event_head = event_id == "1" ? "Registration" : "Verification";
+    var get_channel_head = channelid == 0 ? "" : channelid == 1 ? "Mobile-Android" : channelid == 2 ? "Mobile-IOS" : channelid == 3 ? "Net Banking" : "Branch";
+    var get_result_head = resultsid == "1" ? "Success" : "Failure";
+    $("#dashboard_head").html('Kotak Facial Recognition ' + get_channel_head + ' ' + get_result_head + ' ' + get_event_head + ' Report');
 });
 
 //Getting input values
@@ -275,24 +285,3 @@ function CallVerify(ObjectId, CRN, Event) {
         }
     });
 }
-
-//function dashboard_heading(get_event_head, get_channel_head, get_result_head) {
-//    var get_event_head = JSON.parse(send_data).event_id == "1" ? "Registration" : "Verification";
-//    var get_channel_head = JSON.parse(send_data).channelid == 0 ? "" : channelid == 1 ? "Mobile-Android" : channelid == 2 ? "Mobile-IOS" : channelid == 3 ? "Net Banking" : "Branch";
-//    var get_result_head = JSON.parse(send_data).resultsid == "1" ? "Success" : "Failure";
-//    //console.log("Event = " + get_event_head + "Channel = " + get_channel_head + "Result = " + get_result_head);
-//    document.getElementById("dashboard_head").innerHTML = 'Kotak Facial Recognition ' + get_channel_head + ' ' + get_result_head + ' ' + get_event_head + ' Report';
-//}
-
-$(document).ready(function () {
-    var url = new URL(window.location.href);
-    var event_id = url.searchParams.get("event_id");
-    var channelid = url.searchParams.get("channelid");
-    var resultsid = url.searchParams.get("resultsid");
-
-    var get_event_head = event_id == "1" ? "Registration" : "Verification";
-    var get_channel_head = channelid == 0 ? "" : channelid == 1 ? "Mobile-Android" : channelid == 2 ? "Mobile-IOS" : channelid == 3 ? "Net Banking" : "Branch";
-    var get_result_head = resultsid == "1" ? "Success" : "Failure";
-    //console.log("Event = " + get_event_head + "Channel = " + get_channel_head + "Result = " + get_result_head);
-    $("#dashboard_head").html('Kotak Facial Recognition ' + get_channel_head + ' ' + get_result_head + ' ' + get_event_head + ' Report');
-});

@@ -14,7 +14,8 @@ $(document).ready(function () {
 
     var hidden_crn_value = $('#crn_value').val();
     var hidden_event_value = $('#event_value').val();
-    var hidden_status_value = $('#status_value').val();
+    //var hidden_status_value = $('#status_value').val();
+    var hidden_result_reason_value = $('#result_reason_value').val();
     var hidden_gate_value = $('#gate_value').val();
     var hidden_from_date_value = $('#from_date_value').val();
     var hidden_from_date_value = $('#from_date_value').val();
@@ -54,7 +55,7 @@ $(document).ready(function () {
         $('#events_filter').val(hidden_event_value);
     }
     if (hidden_status_value != "") {
-        $('#status_filter').val(hidden_status_value);
+        $('#result_reason_filter').val(hidden_result_reason_value);
     }
     if (hidden_gate_value != "") {
         $('#gate_filter').val(hidden_gate_value);

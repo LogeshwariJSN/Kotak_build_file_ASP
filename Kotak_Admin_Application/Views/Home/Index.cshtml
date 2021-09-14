@@ -150,7 +150,7 @@
                         <input type="hidden" id="first_offset_value" name="first_offset_value" value="@ViewBag.v" />
                         <input type="hidden" id="crn_value" name="crn_value" value="@ViewBag.cf" />
                         <input type="hidden" id="event_value" name="event_value" value="@ViewBag.ef" />
-                        <input type="hidden" id="status_value" name="status_value" value="@ViewBag.sf" />
+                        <input type="hidden" id="result_reason_value" name="result_reason_value" value="@ViewBag.result_reason_value" />
                         <input type="hidden" id="gate_value" name="gate_value" value="@ViewBag.gf" />
                         <input type="hidden" id="from_date_value" name="from_date_value" value="@ViewBag.f" />
                         <input type="hidden" id="to_date_value" name="to_date_value" value="@ViewBag.t" />
@@ -193,14 +193,14 @@
                                                         </select>
                                                     </div>
                                                     <div class="col-md-1 col-sm-1 col-lg-1">
-                                                        <label class="control-label">Status</label>
+                                                        <label class="control-label">Result Reason</label>
                                                     </div>
                                                     <div class="col-md-2 col-sm-2 col-lg-2">
-                                                        <select class="text_font form-control" id="status_filter" name="sf">
-                                                            <option selected disabled>Select Status</option>
-                                                            @foreach (var msd in Model.MasterStatusFetch)
+                                                        <select class="text_font form-control" id="result_reason_filter" name="result_reason">
+                                                            <option selected disabled>Select Result Reason</option>
+                                                            @foreach (var msd in Model.MasterResultReasonFetch)
                                                             {
-                                                                <option value="@msd.status_id">@msd.status_name</option>
+                                                                <option value="@msd.Result_Reason">@msd.Result_Reason</option>
                                                             }
                                                         </select>
                                                     </div>
@@ -281,7 +281,7 @@
                                                         <th>CRN</th>
                                                         <th>Event</th>
                                                         <th>Version</th>
-                                                        <th>Transaction Status</th>
+                                                        <th>Result Reason</th>
                                                         <th>Gate Failure</th>
                                                         <th>Score</th>
                                                         <th>Channel</th>
