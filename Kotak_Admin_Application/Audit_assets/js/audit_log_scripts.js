@@ -72,7 +72,7 @@ function get_audit_log_page(crn, event_id, result_reason, gate_number, from_date
     $.ajax({
         type: "POST",
         data: send_data,
-        url: "/Home/get_register_success_page/",
+        url: "/Home/get_audit_log_page/",
         contentType: "application/json",
         datatype: "json",
         success: function (response) {
