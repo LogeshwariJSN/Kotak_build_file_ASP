@@ -1,163 +1,16 @@
 $(document).ready(function () {
     //Initialization
-    var set_value = 0;
-    var send_ajax = 0;
+    //var set_value = 0;
+    //var send_ajax = 0;
     $('.even').hide();
     var compare_date1 = "";
     var compare_date2 = "";
-    var current_date = new Date();
+    //var current_date = new Date();
     var today = new Date();
     var dd = String(today.getDate()).padStart(2, '0');
     var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
     var yyyy = today.getFullYear();
     today = yyyy + '-' + mm + '-' + dd;
-
-    var hidden_crn_value = $('#crn_value').val();
-    var hidden_event_value = $('#event_value').val();
-    //var hidden_status_value = $('#status_value').val();
-    var hidden_result_reason_value = $('#result_reason_value').val();
-    var hidden_gate_value = $('#gate_value').val();
-    var hidden_from_date_value = $('#from_date_value').val();
-    var hidden_from_date_value = $('#from_date_value').val();
-    var hidden_to_date_value = $('#to_date_value').val();
-    var hidden_version = $('#version_value').val();
-
-
-    if (hidden_from_date_value == "") {
-        compare_date1 = today;
-    } else {
-        compare_date1 = hidden_from_date_value;
-    }
-    if (hidden_to_date_value == "") {
-        compare_date2 = today;
-    } else {
-        compare_date2 = hidden_from_date_value;
-    }
-    if (hidden_crn_value != "" || hidden_event_value != "" || hidden_status_value != "" || hidden_gate_value != "" || compare_date1 != today || compare_date2 != today || hidden_version!="") {
-        if ($('#collapseExample').hasClass("show")) {
-            $('#collapseExample').removeClass("show");
-        }
-        else {
-            $('#collapseExample').addClass("show");
-        }
-    }
-
-    //if (hidden_crn_value == "" || hidden_event_value == "" || hidden_status_value == "" || hidden_gate_value == "" || hidden_from_date_value == "" || hidden_to_date_value == "") {
-    //    $('#collapseExample').removeClass("show");
-    //}
-
-
-    
-    if (hidden_crn_value != "") {
-        $('#cf').val(hidden_crn_value);
-    }
-    if (hidden_event_value != "") {
-        $('#events_filter').val(hidden_event_value);
-    }
-    if (hidden_status_value != "") {
-        $('#result_reason_filter').val(hidden_result_reason_value);
-    }
-    if (hidden_gate_value != "") {
-        $('#gate_filter').val(hidden_gate_value);
-    }
-    if (hidden_from_date_value != "") {
-        $('#from_date_filter').val(hidden_from_date_value);
-    }
-    else {
-        $('#from_date_filter').val(today);
-    }
-    if (hidden_to_date_value != "") {
-        $('#to_date_filter').val(hidden_to_date_value);
-    }
-    else {
-        $('#to_date_filter').val(today);
-    }
-
-    if (hidden_version != "") {
-        $('#version_filter').val(hidden_version);
-    }
-
-    // Add event listener for opening and closing details
-    $('#audit_log_table tbody').on('click', 'td.expand_arrow', function () {
-        var audit_id = $(this).attr('id');
-        $('table tr#'+ audit_id).focus();
-        if (set_value == 0) {
-            set_value = audit_id;
-            $('#even_sub_' + audit_id).find("tr:gt(0)").remove();
-            $('#arrow_' + audit_id + ' i').removeClass('fa fa-angle-right');
-            $('#arrow_' + audit_id + ' i').addClass('fa fa-angle-down');
-            send_ajax = 1;
-        } else if (set_value == audit_id) {
-            send_ajax = 0;
-            $('#even_' + audit_id).hide();
-            $('#even_sub_' + audit_id).find("tr:gt(0)").remove();
-            $('#arrow_' + audit_id + ' i').removeClass('fa fa-angle-down');
-            $('#arrow_' + audit_id + ' i').addClass('fa fa-angle-right');
-            set_value = 0;
-        } else if (set_value != 0) {
-            $('#even_' + set_value).hide();
-            $('#even_sub_' + audit_id).find("tr:gt(0)").remove();
-            $('#arrow_' + set_value + ' i').removeClass('fa fa-angle-down');
-            $('#arrow_' + set_value + ' i').addClass('fa fa-angle-right');
-            $('#arrow_' + audit_id + ' i').removeClass('fa fa-angle-right');
-            $('#arrow_' + audit_id + ' i').addClass('fa fa-angle-down');
-            set_value = audit_id;
-            send_ajax = 1;
-        }
-        if (send_ajax == 1) {
-            var get_expand_audit_id = $(this).attr('expand_audit_id');
-            var get_event_name = $(this).attr('get_event_name');
-            var send_expand_audit_id = JSON.stringify({
-                audit_id: get_expand_audit_id,
-                event_name: get_event_name
-            });
-            $('table tr#' + audit_id).focus();
-            $.ajax({
-                type: "POST",
-                contentType: "application/json",
-                datatype: "json",
-                data: send_expand_audit_id,
-                url: "/Home/AuditLogExpandFetch/",
-                success: function (data) {
-                    try {
-                        var gate_img = [];
-                        $('#even_'+ audit_id).show();
-                        window.location.hash = '#even_' + audit_id;
-                        for (i = 0; i < data.length; i++) {
-                            var get_json = data[i].JSON_RESPONSE;
-                            var table_td_json = get_json.substring(0, 90);
-                            $('#even_sub_' + audit_id + ' tr:last').after('<tr><td><div class="row"><div class="col-md-12 col-sm-12 col-lg-12 col-xs-12"><div id="img_get_' + data[i].AUDIT_ID + '" class="align_center"></div></div></div></td><td><p style="min-width:100px;">' + data[i].GATE_NAME + '</p></td><td><a title="click to expand" data-toggle="modal" data-target="#myModal_' + data[i].AUDIT_ID + '" style="cursor:pointer;"><p class="json_td_length"><pre>' + table_td_json + '</pre><span>...</span></p></a></td><td><p>' + data[i].STATUS_NAME + '</p><div id="myModal_' + data[i].AUDIT_ID + '" class="modal fade" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><h4 class="modal-title">Full JSON Structure</h4><button type="button" class="close" data-dismiss="modal">&times;</button></div><div class="modal-body"><p><pre>' + data[i].JSON_RESPONSE + '</pre></p></div></div></div></div></td></tr>');
-                            if (data[i].GATE_NAME != "1000")
-                            {
-                                $("#img_get_" + data[i].AUDIT_ID).html('<img src="' + data[i].Image_get + '" id="gate_img_' + data[i].AUDIT_ID + '" class="user-avatar size-100">');
-                                if (data[i].STATUS_NAME == "Success")
-                                {
-                                    gate_img.push(data[i].Image_get);
-                                }
-                            }
-                            else {
-                                if (gate_img.length == "2") {
-                                    $("#img_get_" + data[i].AUDIT_ID).html('<div class="manage-margin d-flex align-items-center flex-wrap"><img class="user-avatar size-60" alt="Azure Registration Image 1" src="' + gate_img[0] + '"><img class="user-avatar size-60" alt="Azure Registration Image 2" src="' + gate_img[1] + '"></div>');
-                                }
-                                if (gate_img.length == "1") {
-                                    $("#img_get_" + data[i].AUDIT_ID).html('<img src="' + gate_img[0] + '" id="gate_img_' + data[i].AUDIT_ID + '" class="user-avatar size-100">');
-                                }
-                            }
-                            
-                        }
-                        console.log(gate_img);
-                    }
-                    catch (err) {
-                        $('#even_' + audit_id).hide();
-                        $('#arrow_' + audit_id + ' i').removeClass('fa fa-angle-right');
-                        $('#arrow_' + audit_id + ' i').addClass('fa fa-angle-down');
-                        success_popup(err);
-                    }
-                }
-            });
-        }
-    });
-
 
     //Clear Audit Log Click Function
     $('#clear_audit_log').on('click', function () {
@@ -185,8 +38,178 @@ $(document).ready(function () {
         window.location.href = '/Home/Index/';
     });
 
+    //Pagination
+    var offset_value = 0;
+    var record_limit = 10;
+    page_initialize(offset_value, record_limit);
 
 });
+
+//Getting input values
+function page_initialize(offset_value, record_limit) {
+
+    var crn = $('#crn_filter').val(); 
+    var event_id = $('#events_filter').val();
+    var result_reason= $('#result_reason_filter').val();
+    var gate_number = $('#gate_filter').val();
+    var from_date = $('#from_date_filter').val();
+    var to_date = $('#to_date_filter').val();
+    var version = $('#version_filter').val();
+     
+    //if (crn == "" || event_id == "" || result_reason == "" || gate_number == "" || version =="") {
+    //    window.location = "";
+    //}
+    //else {
+        get_audit_log_page(crn, event_id, result_reason, gate_number, from_date, to_date, version, offset_value, record_limit);
+   // }
+}
+
+function get_audit_log_page(crn, event_id, result_reason, gate_number, from_date, to_date, version, offset_value, record_limit) {
+    var main_obj = { crn: crn, event_id: event_id, result_reason: result_reason, gate_number: gate_number, from_date: from_date, to_date: to_date, version: version, offset_value: offset_value, record_limit: record_limit }
+    var send_data = JSON.stringify(main_obj);
+
+    console.log(send_data);
+    $.ajax({
+        type: "POST",
+        data: send_data,
+        url: "/Home/get_register_success_page/",
+        contentType: "application/json",
+        datatype: "json",
+        success: function (response) {
+            console.log(response);
+            try {
+                if (response.StatusCode == 200) {
+                    if (response.Data.length == 0) {
+                        $('#success_datatable').hide();
+                        $('#no_data_div').show();
+                        $('#success_datatable tbody').empty();
+                        $('#success_datatable thead tr').empty();
+                    }
+                    else {
+                        $('#success_datatable tbody').empty();
+                        $('#success_datatable thead tr').empty();
+                        $('#top_total_count').html(response.Data.total_records);
+                        $('#bottom_total_count').html(response.Data.total_records);
+
+                        //Dashboard Success Report Data
+
+
+                        if (response.Result == "Success") {
+                            $("#success_datatable thead tr").append("<th>CRN</th><th>Created Date</th><th>Result Reason</th><th>Version</th><th>Thumbnail Images</th><th>Device Details</th>");
+                            for (var i = 0; i < response.Data.DashboardSuccessImageData.length; i++) {
+                                var thumbnail_image_html = "";
+                                for (var j = 0; j < response.Data.DashboardSuccessImageData[i].ThumbnailImage.length; j++) {
+                                    thumbnail_image_html += '<img style="width:100px; height:100px; border-radius:50%" src="data:image/jpeg;base64,' + response.Data.DashboardSuccessImageData[i].ThumbnailImage[j] + '" onclick="ModalboxImage(this)" />';
+                                }
+                                $('#success_datatable tbody').append('<tr><td>' + response.Data.DashboardSuccessImageData[i].CRN + '</td> <td>' + response.Data.DashboardSuccessImageData[i].CreatedOn + '</td> <td>' + response.Data.DashboardSuccessImageData[i].ResulstReason + '</td> <td>' + response.Data.DashboardSuccessImageData[i].Version + '</td> <td>' + thumbnail_image_html + ' </td> <td>' + response.Data.DashboardSuccessImageData[i].DeviceDetails + '</td></tr>');
+                            }
+                        }
+                        else {
+                            //Dashboard Failure Report Data
+                            $("#success_datatable thead tr").append("<th>CRN</th><th>Created Date</th><th>Result Reason</th><th>Version</th><th>Verify</th><th>Thumbnail Images</th><th>Failed At</th><th>Device Details</th>");
+                            //Thumbnail Images
+                            for (var i = 0; i < response.Data.DashboardSPecificResultData.length; i++) {
+                                var thumbnail_image_html = "", verify_button_html = "", failure_at = "", result_reason = "";
+                                var get_event = JSON.parse(send_data).event_id == "1" ? "Registration" : "Verification";
+                                if (response.Data.DashboardSPecificResultData[i].ThumbnailImage != "" || response.Data.DashboardSPecificResultData[i].ThumbnailImage != null) {
+                                    thumbnail_image_html = '<img style="width: 100px; height: 100px; border - radius: 50 % " src="data: image / jpeg; base64, ' + response.Data.DashboardSPecificResultData[i].ThumbnailImage + '" onclick="ModalboxImage(this)" />';
+                                }
+
+                                //Verify Button
+                                if (response.Data.DashboardSPecificResultData[i].ResulstReason != "" || response.Data.DashboardSPecificResultData[i].ResulstReason != "") {
+                                    verify_button_html = '<div class="buttons"><div class="form-group" ><button type="submit" name="SubmitBut" onclick="CallVerify(&apos;' + response.Data.DashboardSPecificResultData[i].ObjectId + '&apos;, &apos;' + response.Data.DashboardSPecificResultData[i].CRN + '&apos;,&apos;' + get_event + '&apos;)" class="SubmitBtn btn btn-info text-dark" data-loading-text="<i class=fa fa-spinner fa-spin></i> Loading..">VERIFY</button></div></div>';
+                                }
+
+                                //Gate Failed At
+                                var result_reason_array = ["Invalid Face", "Sun Glass", "Invalid Angle", "Face not detected", "Face mismatch"];
+                                if (jQuery.inArray(response.Data.DashboardSPecificResultData[i].ResulstReason, result_reason_array) != -1) {
+                                    failure_at = "Gate 1";
+                                }
+                                else if (response.Data.DashboardSPecificResultData[i].ResulstReason == "Fake") {
+                                    failure_at = "Gate 2";
+                                }
+                                else if (response.Data.DashboardSPecificResultData[i].ResulstReason == "Not Raise Hand" || response.Data.DashboardSPecificResultData[i].ResulstReason == "Not Smile") {
+                                    failure_at = "Gate 3";
+                                }
+                                else if (response.Data.DashboardSPecificResultData[i].ResulstReason == "Azure Registration Failed" || response.Data.DashboardSPecificResultData[i].ResulstReason == "Azure Verification Failed") {
+                                    failure_at = "Azure";
+                                }
+                                if (response.Data.DashboardSPecificResultData[i].ResulstReason != "" || response.Data.DashboardSPecificResultData[i].ResulstReason != null) {
+                                    result_reason = response.Data.DashboardSPecificResultData[i].ResulstReason;
+                                }
+
+                                $('#success_datatable tbody').append('<tr><td>' + response.Data.DashboardSPecificResultData[i].CRN + '</td> <td>' + response.Data.DashboardSPecificResultData[i].CreatedOn + '</td> <td>' + result_reason + '</td> <td>' + response.Data.DashboardSPecificResultData[i].Version + '</td> <td>' + verify_button_html + '</td> <td>' + thumbnail_image_html + ' </td> <td>' + failure_at + ' </td> <td>' + response.Data.DashboardSPecificResultData[i].DeviceDetails + '</td></tr>');
+                            }
+
+                        }
+
+
+                        if (Number(JSON.parse(send_data).record_limit) < response.Data.total_records) {
+                            $("#top_div").show();
+                            $("#bottom_div").show();
+                            //$('#top_starting_index').html(Number(JSON.parse(send_data).offset_value) + 1);
+                            //$('#bottom_starting_index').html(Number(JSON.parse(send_data).offset_value) + 1);
+
+                            if ((Number(JSON.parse(send_data).offset_value) + Number(JSON.parse(send_data).record_limit)) >= response.Data.total_records) {
+                                $('#top_ending_index').html(response.Data.total_records);
+                                $('#bottom_ending_index').html(response.Data.total_records);
+                                $('.next_btn').attr("disabled", true);
+                                $('.last_btn').attr("disabled", true);
+                                $('.previous_btn').attr("disabled", false);
+                                $('.first_btn').attr("disabled", false);
+                            }
+                            else {
+                                if (Number(JSON.parse(send_data).offset_value) == 0 || Number(JSON.parse(send_data).offset_value) == 1) {
+                                    $('.next_btn').attr("disabled", false);
+                                    $('.last_btn').attr("disabled", false);
+                                    $('.previous_btn').attr("disabled", true);
+                                    $('.first_btn').attr("disabled", true);
+                                }
+                                else {
+                                    $('.next_btn').attr("disabled", false);
+                                    $('.last_btn').attr("disabled", false);
+                                    $('.previous_btn').attr("disabled", false);
+                                    $('.first_btn').attr("disabled", false);
+                                }
+                                //$('#top_ending_index').html(Number(JSON.parse(send_data).offset_value) + Number(JSON.parse(send_data).record_limit));
+                                //$('#bottom_ending_index').html(Number(JSON.parse(send_data).offset_value) + Number(JSON.parse(send_data).record_limit));
+                            }
+                            $('#top_total_count').html(response.Data.total_records);
+                            $('#bottom_total_count').html(response.Data.total_records);
+
+                        }
+                        else {
+                            $("#top_div").hide();
+                            $("#bottom_div").hide();
+                        }
+                        $('#success_datatable').show();
+                        $('#no_data_div').hide();
+                        $('#top_div').show();
+                        $('#bottom_div').show();
+                    }
+                }
+                else {
+                    $('#success_datatable').hide();
+                    $('#no_data_div').show();
+                    $('#top_div').hide();
+                    $('#bottom_div').hide();
+                }
+            }
+            catch (err) {
+                console.log(err);
+                $('#success_datatable').hide();
+                $('#no_data_div').show();
+            }
+        },
+        error: function (response) {
+            $('#success_datatable').hide();
+            $('#no_data_div').show();
+        }
+    });
+
+}
+
+
 
 function success_popup(message) {
     var html = '<div class="modal fade" id="alert_popup" role="dialog"><div class="modal-dialog"><div class="modal-content">        <div class="modal-body">          <center><h4>"Something went wrong Please try again"</h4><br><a href="/Home/index/" type="button" class="btn btn-default" style="background:#013567;">Okay</a>           </center>        </div>      </div>    </div>  </div>';
