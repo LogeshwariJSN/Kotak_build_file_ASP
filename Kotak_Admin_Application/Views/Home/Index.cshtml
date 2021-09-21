@@ -328,7 +328,7 @@
                         <div class="top_header">
                             <div class="row">
                                 <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12 text-left">
-                                    <h1 class="db_header db_text_red">Registration Completed</h1>
+                                    <h1 class="db_header db_text_blue">Registration Completed</h1>
                                 </div>
                             </div>
                         </div>
@@ -339,16 +339,19 @@
                                     <table class="table table-borderless">
                                         <thead>
                                             <tr>
-                                                <th class="db_header db_text_red">Single Attempt</th>
+                                                <th class="db_header db_text_red db_cell_width">Single Attempt</th>
                                                 <th class="db_header db_text_blue db_cell_width">Multiple Attempts</th>
                                                 <th class="db_header db_text_green db_cell_width">Total</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td class="db_content db_text_red" id="CompleteSingleAttempt">@ViewBag.reg_complete_single_attempt</td>
-                                                <td class="db_content db_text_blue" id="CompleteMultipleAttempt">@ViewBag.reg_complete_multiple_attempt</td>
-                                                <td class="db_content db_text_green" id="TotalCompleteUsers">@ViewBag.reg_completed_users</td>
+                                                <td class="db_content db_text_red" id="CompleteSingleAttempt">0</td>
+                                                <td class="db_content db_text_blue" id="CompleteMultipleAttempt">0</td>
+                                                <td class="db_content db_ts</text_green" id="TotalCompleteUsers">0</td>
+                                                @*<td class="db_content db_text_red" id="CompleteSingleAttempt">@ViewBag.reg_complete_single_attempt</td>
+        <td class="db_content db_text_blue" id="CompleteMultipleAttempt">@ViewBag.reg_complete_multiple_attempt</td>
+        <td class="db_content db_ts</text_green" id="TotalCompleteUsers">@ViewBag.reg_completed_user</td>*@
                                             </tr>
                                         </tbody>
                                     </table>
@@ -370,16 +373,19 @@
                                     <table class="table table-borderless">
                                         <thead>
                                             <tr>
-                                                <th class="db_header db_text_red">First Attempt</th>
+                                                <th class="db_header db_text_red db_cell_width">First Attempt</th>
                                                 <th class="db_header db_text_blue db_cell_width">Multiple Attempts</th>
                                                 <th class="db_header db_text_green db_cell_width">Total</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td class="db_content db_text_red" id="DropSingleAttempt">@ViewBag.reg_drop_single_attempt</td>
-                                                <td class="db_content db_text_blue" id="DropMultipleAttempt">@ViewBag.reg_drop_multiple_attempt</td>
-                                                <td class="db_content db_text_green" id="DroppedUsers">@ViewBag.reg_drop_users</td>
+                                                <td class="db_content db_text_red" id="DropSingleAttempt">0</td>
+                                                <td class="db_content db_text_blue" id="DropMultipleAttempt">0</td>
+                                                <td class="db_content db_text_green" id="DroppedUsers">0</td>
+                                                @*<td class="db_content db_text_red" id="DropSingleAttempt">@ViewBag.reg_drop_single_attempt</td>
+        <td class="db_content db_text_blue" id="DropMultipleAttempt">@ViewBag.reg_drop_multiple_attempt</td>
+        <td class="db_content db_text_green" id="DroppedUsers">@ViewBag.reg_drop_users</td>*@
                                             </tr>
                                         </tbody>
                                     </table>
@@ -401,14 +407,16 @@
                                     <table class="table table-borderless">
                                         <thead>
                                             <tr>
-                                                <th class="db_header db_text_red">Successful Attempts</th>
+                                                <th class="db_header db_text_red db_cell_width">Successful Attempts</th>
                                                 <th class="db_header db_text_blue db_cell_width">Failed Attempts</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td class="db_content db_text_red" id="SuccessfulAttempts">@ViewBag.reg_successful_attempts</td>
-                                                <td class="db_content db_text_blue" id="FailureAttempts">@ViewBag.reg_failed_attempts</td>
+                                                <td class="db_content db_text_red" id="SuccessfulAttempts">0</td>
+                                                <td class="db_content db_text_blue" id="FailureAttempts">0</td>
+                                                @*<td class="db_content db_text_red" id="SuccessfulAttempts">@ViewBag.reg_successful_attempts</td>
+        <td class="db_content db_text_blue" id="FailureAttempts">@ViewBag.reg_failed_attempts</td>*@
                                             </tr>
                                         </tbody>
                                     </table>
