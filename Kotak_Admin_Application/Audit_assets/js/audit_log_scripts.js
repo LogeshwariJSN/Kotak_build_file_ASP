@@ -216,3 +216,37 @@ function success_popup(message) {
     document.getElementById("alert_popup_div").innerHTML = html;
     $('#alert_popup').modal('show');
 }
+
+function audit_log_register_attempt{
+    var crn = $('#crn_filter').val();
+    var event_id = $('#events_filter').val();
+    var result_reason = $('#result_reason_filter').val();
+    var gate_number = $('#gate_filter').val();
+    var from_date = $('#from_date_filter').val();
+    var to_date = $('#to_date_filter').val();
+    var version = $('#version_filter').val();
+
+    $.ajax({
+        type: "POST",
+        data: send_data,
+        url: "/Home/AuditLogRegUsers/",
+        contentType: "application/json",
+        datatype: "json",
+        success: function (response) {
+            
+            $('#RegCompleteSingleAttempt').html(response.Data.reg_complete_single_attempt);
+            $('#RegCompleteMultipleAttempt').html(response.Data.reg_complete_multiple_attempt);
+            $('#RegAverageCompleteUsers').html(response.Data.reg_average_completed_users);
+            $('#RegDropSingleAttempt').html(response.Data.reg_drop_single_attempt);
+            $('#RegDropMultipleAttempt').html(response.Data.reg_drop_multiple_attempt);
+            $('#RegAverageDroppedUsers').html(response.Data.reg_average_dropped_users);
+            $('#RegSuccessfulAttempts').html(response.Data.reg_successful_attempts);
+            $('#RegFailureAttempts').html(response.Data.reg_failed_attempts);
+            
+        },
+        error: function (response) {
+            
+        }
+    });
+
+}
