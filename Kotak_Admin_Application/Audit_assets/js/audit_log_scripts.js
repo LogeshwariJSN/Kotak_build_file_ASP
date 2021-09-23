@@ -13,6 +13,7 @@ $(document).ready(function () {
     today = yyyy + '-' + mm + '-' + dd;
 
     audit_log_register_attempt();
+    audit_log_verify_attempt();
 
 
     //Clear Audit Log Click Function
@@ -262,7 +263,7 @@ function audit_log_register_attempt() {
 }
 
 //Audit Log Verify Count
-function audit_log_register_attempt() {
+function audit_log_verify_attempt() {
     var crn = $('#crn_filter').val();
     var event_id = $('#events_filter').val();
     var result_reason = $('#result_reason_filter').val();
