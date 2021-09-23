@@ -217,7 +217,7 @@ function success_popup(message) {
     $('#alert_popup').modal('show');
 }
 
-function audit_log_register_attempt{
+function audit_log_register_attempt(){
     var crn = $('#crn_filter').val();
     var event_id = $('#events_filter').val();
     var result_reason = $('#result_reason_filter').val();
@@ -226,6 +226,11 @@ function audit_log_register_attempt{
     var to_date = $('#to_date_filter').val();
     var version = $('#version_filter').val();
 
+    var main_obj = { crn: crn, event_id: event_id, result_reason: result_reason, gate_number: gate_number, from_date: from_date, to_date: to_date, version: version, offset_value: offset_value, record_limit: record_limit }
+    var send_data = JSON.stringify(main_obj);
+
+    console.log(send_data);
+
     $.ajax({
         type: "POST",
         data: send_data,
@@ -233,7 +238,7 @@ function audit_log_register_attempt{
         contentType: "application/json",
         datatype: "json",
         success: function (response) {
-            
+
             $('#RegCompleteSingleAttempt').html(response.Data.reg_complete_single_attempt);
             $('#RegCompleteMultipleAttempt').html(response.Data.reg_complete_multiple_attempt);
             $('#RegAverageCompleteUsers').html(response.Data.reg_average_completed_users);
@@ -242,11 +247,12 @@ function audit_log_register_attempt{
             $('#RegAverageDroppedUsers').html(response.Data.reg_average_dropped_users);
             $('#RegSuccessfulAttempts').html(response.Data.reg_successful_attempts);
             $('#RegFailureAttempts').html(response.Data.reg_failed_attempts);
-            
+
         },
         error: function (response) {
-            
+
         }
-    });
+
+});
 
 }
