@@ -12,6 +12,9 @@ $(document).ready(function () {
     var yyyy = today.getFullYear();
     today = yyyy + '-' + mm + '-' + dd;
 
+    audit_log_register_attempt();
+
+
     //Clear Audit Log Click Function
     $('#clear_audit_log').on('click', function () {
 
