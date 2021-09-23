@@ -220,7 +220,7 @@ function success_popup(message) {
     $('#alert_popup').modal('show');
 }
 
-function audit_log_register_attempt(){
+function audit_log_register_attempt() {
     var crn = $('#crn_filter').val();
     var event_id = $('#events_filter').val();
     var result_reason = $('#result_reason_filter').val();
@@ -229,7 +229,7 @@ function audit_log_register_attempt(){
     var to_date = $('#to_date_filter').val();
     var version = $('#version_filter').val();
 
-    var main_obj = { crn: crn, event_id: event_id, result_reason: result_reason, gate_number: gate_number, from_date: from_date, to_date: to_date, version: version, offset_value: offset_value, record_limit: record_limit }
+    var main_obj = { crn: crn, event_id: event_id, result_reason: result_reason, gate_number: gate_number, from_date: from_date, to_date: to_date, version: version}
     var send_data = JSON.stringify(main_obj);
 
     console.log(send_data);
