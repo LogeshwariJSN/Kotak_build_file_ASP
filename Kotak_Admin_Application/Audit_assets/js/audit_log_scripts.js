@@ -229,7 +229,7 @@ function audit_log_register_attempt() {
     var to_date = $('#to_date_filter').val();
     var version = $('#version_filter').val();
 
-    var main_obj = { crn: crn, event_id: event_id, result_reason: result_reason, gate_number: gate_number, from_date: from_date, to_date: to_date, version: version}
+    var main_obj = { crn: crn, event_id: 1, result_reason: result_reason, gate_number: 1, from_date: from_date, to_date: to_date, version: version}
     var send_data = JSON.stringify(main_obj);
 
     console.log(send_data);
