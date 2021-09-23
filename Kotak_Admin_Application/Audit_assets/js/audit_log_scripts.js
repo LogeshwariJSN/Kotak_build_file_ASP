@@ -220,6 +220,7 @@ function success_popup(message) {
     $('#alert_popup').modal('show');
 }
 
+//Audit Log Register Count
 function audit_log_register_attempt() {
     var crn = $('#crn_filter').val();
     var event_id = $('#events_filter').val();
@@ -257,5 +258,46 @@ function audit_log_register_attempt() {
         }
 
 });
+
+}
+
+//Audit Log Verify Count
+function audit_log_register_attempt() {
+    var crn = $('#crn_filter').val();
+    var event_id = $('#events_filter').val();
+    var result_reason = $('#result_reason_filter').val();
+    var gate_number = $('#gate_filter').val();
+    var from_date = $('#from_date_filter').val();
+    var to_date = $('#to_date_filter').val();
+    var version = $('#version_filter').val();
+
+    var main_obj = { crn: crn, event_id: 1, result_reason: result_reason, gate_number: 1, from_date: from_date, to_date: to_date, version: version }
+    var send_data = JSON.stringify(main_obj);
+
+    console.log(send_data);
+
+    $.ajax({
+        type: "POST",
+        data: send_data,
+        url: "/Home/AuditLogVerifyUsers/",
+        contentType: "application/json",
+        datatype: "json",
+        success: function (response) {
+
+            $('#VerifyCompleteSingleAttempt').html(response.Data.verify_complete_single_attempt);
+            $('#VerifyCompleteMultipleAttempt').html(response.Data.verify_complete_multiple_attempt);
+            $('#VerifyAverageCompleteUsers').html(response.Data.verify_average_completed_users);
+            $('#VerifyDropSingleAttempt').html(response.Data.verify_drop_single_attempt);
+            $('#VerifyDropMultipleAttempt').html(response.Data.verify_drop_multiple_attempt);
+            $('#VerifyAverageDroppedUsers').html(response.Data.verify_average_dropped_users);
+            $('#VerifySuccessfulAttempts').html(response.Data.verify_successful_attempts);
+            $('#VerifyFailureAttempts').html(response.Data.verify_failed_attempts);
+
+        },
+        error: function (response) {
+
+        }
+
+    });
 
 }
