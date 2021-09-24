@@ -11,7 +11,8 @@ $(document).ready(function () {
     var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
     var yyyy = today.getFullYear();
     today = yyyy + '-' + mm + '-' + dd;
-
+    $('#from_date_filter').val(today);
+    $('#to_date_filter').val(today);
     audit_log_register_attempt();
     audit_log_verify_attempt();
 
