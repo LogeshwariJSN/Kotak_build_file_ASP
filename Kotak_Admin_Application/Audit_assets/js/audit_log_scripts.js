@@ -14,9 +14,7 @@ $(document).ready(function () {
     $('#from_date_filter').val(today);
     $('#to_date_filter').val(today);
     audit_log_register_attempt();
-    audit_log_verify_attempt();
-
-
+    
     //Clear Audit Log Click Function
     $('#clear_audit_log').on('click', function () {
 
