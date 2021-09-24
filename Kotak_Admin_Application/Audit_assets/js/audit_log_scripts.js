@@ -223,7 +223,7 @@ function success_popup(message) {
 
 //Audit Log Register Count
 function audit_log_register_attempt() {
-    var crn = $('#crn_filter').val();
+    var crn = $('#crn_filter').val().trim();
     var event_id = $('#events_filter').val();
     var result_reason = $('#result_reason_filter').val();
     var gate_number = $('#gate_filter').val();
@@ -231,7 +231,7 @@ function audit_log_register_attempt() {
     var to_date = $('#to_date_filter').val();
     var version = $('#version_filter').val();
      
-    var main_obj = { crn: crn, event_id: 1, result_reason: result_reason, gate_number: 1, from_date: from_date, to_date: to_date, version: version}
+    var main_obj = { crn: crn, event_id: event_id, result_reason: result_reason, gate_number: gate_number, from_date: from_date, to_date: to_date, version: version}
     var send_data = JSON.stringify(main_obj);
 
     console.log(send_data);
@@ -244,14 +244,24 @@ function audit_log_register_attempt() {
         datatype: "json",
         success: function (response) {
 
-            $('#RegCompleteSingleAttempt').html(response.Data.reg_complete_single_attempt);
-            $('#RegCompleteMultipleAttempt').html(response.Data.reg_complete_multiple_attempt);
-            $('#RegAverageCompleteUsers').html(response.Data.reg_average_completed_users);
-            $('#RegDropSingleAttempt').html(response.Data.reg_drop_single_attempt);
-            $('#RegDropMultipleAttempt').html(response.Data.reg_drop_multiple_attempt);
-            $('#RegAverageDroppedUsers').html(response.Data.reg_average_dropped_users);
-            $('#RegSuccessfulAttempts').html(response.Data.reg_successful_attempts);
-            $('#RegFailureAttempts').html(response.Data.reg_failed_attempts);
+            $('#RegCompleteSingleAttempt').html(response.RegData.reg_complete_single_attempt);
+            $('#RegCompleteMultipleAttempt').html(response.RegData.reg_complete_multiple_attempt);
+            $('#RegAverageCompleteUsers').html(response.RegData.reg_average_completed_users);
+            $('#RegDropSingleAttempt').html(response.RegData.reg_drop_single_attempt);
+            $('#RegDropMultipleAttempt').html(response.RegData.reg_drop_multiple_attempt);
+            $('#RegAverageDroppedUsers').html(response.RegData.reg_average_dropped_users);
+            $('#RegSuccessfulAttempts').html(response.RegData.reg_successful_attempts);
+            $('#RegFailureAttempts').html(response.RegData.reg_failed_attempts);
+
+
+            $('#VerifyCompleteSingleAttempt').html(response.VerifyData.verify_complete_single_attempt);
+            $('#VerifyCompleteMultipleAttempt').html(response.VerifyData.verify_complete_multiple_attempt);
+            $('#VerifyAverageCompleteUsers').html(response.VerifyData.verify_average_completed_users);
+            $('#VerifyDropSingleAttempt').html(response.VerifyData.verify_drop_single_attempt);
+            $('#VerifyDropMultipleAttempt').html(response.VerifyData.verify_drop_multiple_attempt);
+            $('#VerifyAverageDroppedUsers').html(response.VerifyData.verify_average_dropped_users);
+            $('#VerifySuccessfulAttempts').html(response.VerifyData.verify_successful_attempts);
+            $('#VerifyFailureAttempts').html(response.VerifyData.verify_failed_attempts);
 
         },
         error: function (response) {
@@ -259,46 +269,5 @@ function audit_log_register_attempt() {
         }
 
 });
-
-}
-
-//Audit Log Verify Count
-function audit_log_verify_attempt() {
-    var crn = $('#crn_filter').val();
-    var event_id = $('#events_filter').val();
-    var result_reason = $('#result_reason_filter').val();
-    var gate_number = $('#gate_filter').val();
-    var from_date = $('#from_date_filter').val();
-    var to_date = $('#to_date_filter').val();
-    var version = $('#version_filter').val();
-
-    var main_obj = { crn: crn, event_id: 1, result_reason: result_reason, gate_number: 1, from_date: from_date, to_date: to_date, version: version }
-    var send_data = JSON.stringify(main_obj);
-
-    console.log(send_data);
-
-    $.ajax({
-        type: "POST",
-        data: send_data,
-        url: "/Home/AuditLogVerifyUsers/",
-        contentType: "application/json",
-        datatype: "json",
-        success: function (response) {
-
-            $('#VerifyCompleteSingleAttempt').html(response.Data.verify_complete_single_attempt);
-            $('#VerifyCompleteMultipleAttempt').html(response.Data.verify_complete_multiple_attempt);
-            $('#VerifyAverageCompleteUsers').html(response.Data.verify_average_completed_users);
-            $('#VerifyDropSingleAttempt').html(response.Data.verify_drop_single_attempt);
-            $('#VerifyDropMultipleAttempt').html(response.Data.verify_drop_multiple_attempt);
-            $('#VerifyAverageDroppedUsers').html(response.Data.verify_average_dropped_users);
-            $('#VerifySuccessfulAttempts').html(response.Data.verify_successful_attempts);
-            $('#VerifyFailureAttempts').html(response.Data.verify_failed_attempts);
-
-        },
-        error: function (response) {
-
-        }
-
-    });
 
 }

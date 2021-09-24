@@ -188,7 +188,7 @@
                                                     </div>
                                                     <div class="col-md-2 col-sm-2 col-lg-2">
                                                         <select class="text_font form-control" id="events_filter" name="events_filter">
-                                                            <option selected disabled>Select Events</option>
+                                                            <option selected value="0" >All</option>
                                                             @foreach (var med in Model.MasterEventsFetch)
                                                             {
                                                                 <option value="@med.EVENT_ID">@med.EVENT_NAME</option>
@@ -200,7 +200,7 @@
                                                     </div>
                                                     <div class="col-md-2 col-sm-2 col-lg-2">
                                                         <select class="text_font form-control" id="result_reason_filter" name="result_reason">
-                                                            <option selected disabled>Select Result Reason</option>
+                                                            <option selected value="">All</option>
                                                             @foreach (var msd in Model.MasterResultReasonFetch)
                                                             {
                                                                 <option value="@msd.Result_Reason">@msd.Result_Reason</option>
@@ -212,7 +212,7 @@
                                                     </div>
                                                     <div class="col-md-2 col-sm-2 col-lg-2">
                                                         <select class="text_font form-control" id="version_filter" name="version">
-                                                            <option selected disabled>Select Version</option>
+                                                            <option selected value="">All</option>
                                                             @foreach (var ver in Model.Versions)
                                                             {
                                                                 <option value="@ver">@ver</option>
@@ -244,7 +244,7 @@
                                                     </div>
                                                     <div class="col-md-2 col-sm-2 col-lg-2">
                                                         <select class="text_font form-control" id="gate_filter" name="gf">
-                                                            <option selected disabled>Select Gate</option>
+                                                            <option selected value="0">All</option>
                                                             @foreach (var mgf in Model.MasterGateFetch)
                                                             {
                                                                 <option value="@mgf.GATE_NUMBER">Gate @mgf.GATE_NUMBER</option>
