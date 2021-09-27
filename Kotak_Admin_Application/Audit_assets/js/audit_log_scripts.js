@@ -35,6 +35,9 @@ $(document).ready(function () {
 
     });
 
+    $("#search_button").click(function () {
+        audit_log_register_attempt();
+    });
 
     //Reset Button Function
     $('#reset_btn').on('click', function () {
