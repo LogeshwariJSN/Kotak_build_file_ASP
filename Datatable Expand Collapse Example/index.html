@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Datatable Expand Collapse Example</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.16/datatables.min.css">
+    <style type="text/css">
+        td.details-control {
+    background: url('https://cdn.rawgit.com/DataTables/DataTables/6c7ada53ebc228ea9bc28b1b216e793b1825d188/examples/resources/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+tr.shown td.details-control {
+    background: url('https://cdn.rawgit.com/DataTables/DataTables/6c7ada53ebc228ea9bc28b1b216e793b1825d188/examples/resources/details_close.png') no-repeat center center;
+}
+    </style>
+</head>
+<body>
+
+<button id="btn-show-all-children" type="button">Expand All</button>
+<button id="btn-hide-all-children" type="button">Collapse All</button>
+<hr>
+<table id="example" class="display" cellspacing="0" width="100%">
+    <thead>
+        <tr>
+                    <th></th>
+            <th>ID</th>
+            <th>Inspection Details</th>
+            <th>User Name</th>
+            <th>Activity Name</th>
+            <th>Result</th>
+            <th>Inspected By</th>
+        </tr>
+    </thead>
+</table>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.16/datatables.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
+
