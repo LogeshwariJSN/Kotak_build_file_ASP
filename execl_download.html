@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<table>
+  <thead>
+    <tr>
+      <th>Created on</th>
+	  <th>CRN Number</th>
+	  <th>Event</th>
+	  <th>Status</th>
+	  <th>Failed at</th>
+	  <th>Failure Reason</th>
+	  <th>Confidence Score</th>
+	  <th>Threshold Value</th>
+	  <th>Image Details</th>
+    </tr>
+  </thead>
+</table>
+
+<script>
+	var headers = {
+		created_on: "created_on",
+		crn_number: "crn_number",
+		event: "event",
+		status: "status",
+		failed_at: "failed_at",
+		failure_reason: "failure_reason",
+		confidence_score: "confidence_score",
+		threshold_value: "threshold_value",
+		image_details: "image_details"
+	};
+
+var excel_array = [];
+var excel_download_details={"created_on":"2/14/2021","crn_number":"x1","event":"Register","status":"Success","failed_at":"","failure_reason":"","confidence_score":"5.2","threshold_value":90,"image_details":"x1_2/14/2021"};
+excel_array.push(excel_download_details);
+var fileTitle = 'Audit Log Details';
+
+exportExcelFile(headers, excel_array, fileTitle);
+
+function convertToExcel(objArray) {
+	var array = typeof objArray != 'object' ? JSON.parse(objArray) : objArray;
+	var str = '';
+
+	for (var i = 0; i < array.length; i++) {
+	var line = '';
+	for (var index in array[i]) {
+	if (line != '') line += ','
+	line += array[i][index];
+	}
+	str += line + '\r\n';
+	}
+	return str;
+}
+
+
+function exportExcelFile(headers, items, fileTitle) {
+if (headers) {
+items.unshift(headers);
+}
+
+// Convert Object to JSON
+var jsonObject = JSON.stringify(items);
+var excel = this.convertToExcel(jsonObject);
+var exportedFilename = fileTitle + '.csv' || 'export.csv';
+var blob = new Blob([excel], { type: 'text/csv;charset=utf-8;' });
+
+if (navigator.msSaveBlob) { // IE 10+
+navigator.msSaveBlob(blob, exportedFilename);
+} else {
+var link = document.createElement("a");
+if (link.download !== undefined) { // feature detection
+// Browsers that support HTML5 download attribute
+var url = URL.createObjectURL(blob);
+link.setAttribute("href", url);
+link.setAttribute("download", exportedFilename);
+link.style.visibility = 'hidden';
+document.body.appendChild(link);
+link.click();
+document.body.removeChild(link);
+}
+}
+}
+</script>
+
+</body>
+</html>
