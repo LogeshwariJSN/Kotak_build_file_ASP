@@ -48,6 +48,7 @@ $(document).ready(function () {
     $("#download_btn").click(function (e) {
         e.preventDefault();
         audit_log_excel_download();
+        user_image_zip_download();
     });
 
     //Reset Button Function
