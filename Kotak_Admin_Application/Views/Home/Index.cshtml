@@ -32,6 +32,20 @@
 
     <!-- Custom stylesheet -->
     <link href="~/dashboard_assets/css/user_style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/dashboard_assets/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="~/Audit_assets/css/datatables.min.css">
+
+    <style type="text/css">
+        td.details-control {
+            background: url('../../Audit_assets/images/details_open.png') no-repeat center center;
+            cursor: pointer;
+        }
+
+    tr.shown td.details-control { 
+        background: url('../../Audit_assets/images/details_close.png') no-repeat center center; 
+
+    }
+    </style>
 
 </head>
 <body id="body" data-theme="dark-indigo">
@@ -61,7 +75,7 @@
                 <!-- /sidebar header -->
                 <!-- Main navigation -->
                 <div id="main-menu" class="main-menu navbar-collapse collapse">
-                    <ul class="nav-menu">                        
+                    <ul class="nav-menu">
                         <li class="menu no-arrow">
                             <a href="/Home/Dashboard/">
                                 <span class="nav-text">Dashboard Success Report</span>
@@ -99,11 +113,11 @@
                             <span class="menu-icon"></span>
                         </a>
                     </div>
-                    
-                    <div class="search-bar right-side-icon bg-transparent d-none d-sm-block">                       
+
+                    <div class="search-bar right-side-icon bg-transparent d-none d-sm-block">
                     </div>
                     <ul class="quick-menu header-notifications ml-auto">
-                        
+
                         <li class="dropdown">
                             <a href="javascript:void(0)" data-toggle="dropdown" aria-haspopup="true" class="d-inline-block" aria-expanded="true">
                                 <div class="user-thumb">
@@ -188,7 +202,7 @@
                                                     </div>
                                                     <div class="col-md-2 col-sm-2 col-lg-2">
                                                         <select class="text_font form-control" id="events_filter" name="events_filter">
-                                                            <option selected value="0" >All</option>
+                                                            <option selected value="0">All</option>
                                                             @foreach (var med in Model.MasterEventsFetch)
                                                             {
                                                                 <option value="@med.EVENT_ID">@med.EVENT_NAME</option>
@@ -252,8 +266,9 @@
                                                         </select>
                                                     </div>
                                                     <div class="col-md-3 col-sm-3 col-lg-3">
-                                                        <button type="submit" class="btn btn-primary" style="background:#013567;" id="search_button">Search</button>
+                                                        <button type="button" class="btn btn-primary" style="background:#013567;" id="search_btn">Search</button>
                                                         <button type="button" class="btn btn-primary" style="background:#013567;" id="reset_btn">Reset</button>
+                                                        <button type="button" class="btn btn-primary" style="background:#013567;" id="download_btn">Download</button>
                                                     </div>
                                                 </div>
                                                 <div class="row">
@@ -425,125 +440,147 @@
                         </div>
 
                         <!--Verification Count-->
-                    <div class="top_header">
-                        <div class="row">
-                            <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12 text-left">
-                                <h1 class="db_header db_text_green">Number of Users for Verification</h1>
+                        <div class="top_header">
+                            <div class="row">
+                                <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12 text-left">
+                                    <h1 class="db_header db_text_green">Number of Users for Verification</h1>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <div class="top_header">
-                        <div class="row">
-                            <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12 text-left">
-                                <h1 class="db_header db_text_blue">Verification Completed</h1>
+                        <div class="top_header">
+                            <div class="row">
+                                <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12 text-left">
+                                    <h1 class="db_header db_text_blue">Verification Completed</h1>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <div class="top_header">
-                        <div class="row">
-                            <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12">
-                                <table class="table table-borderless">
-                                    <thead>
-                                        <tr>
-                                            <th class="db_header db_text_red db_cell_width">Single Attempt</th>
-                                            <th class="db_header db_text_blue db_cell_width">Multiple Attempts</th>
-                                            <th class="db_header db_text_green db_cell_width">Average Attempts</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td class="db_content db_text_red" id="VerifyCompleteSingleAttempt">0</td>
-                                            <td class="db_content db_text_blue" id="VerifyCompleteMultipleAttempt">0</td>
-                                            <td class="db_content db_text_green" id="VerifyAverageCompleteUsers">0</td>
-                                            @*<td class="db_content db_text_red" id="CompleteSingleAttempt">@ViewBag.verify_complete_single_attempt</td>
-                            <td class="db_content db_text_blue" id="CompleteMultipleAttempt">@ViewBag.verify_complete_multiple_attempt</td>
-                            <td class="db_content db_ts</text_green" id="AverageCompleteUsers">@ViewBag.verify_average_completed_users</td>*@
-                                        </tr>
-                                    </tbody>
-                                </table>
+                        <div class="top_header">
+                            <div class="row">
+                                <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12">
+                                    <table class="table table-borderless">
+                                        <thead>
+                                            <tr>
+                                                <th class="db_header db_text_red db_cell_width">Single Attempt</th>
+                                                <th class="db_header db_text_blue db_cell_width">Multiple Attempts</th>
+                                                <th class="db_header db_text_green db_cell_width">Average Attempts</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td class="db_content db_text_red" id="VerifyCompleteSingleAttempt">0</td>
+                                                <td class="db_content db_text_blue" id="VerifyCompleteMultipleAttempt">0</td>
+                                                <td class="db_content db_text_green" id="VerifyAverageCompleteUsers">0</td>
+                                                @*<td class="db_content db_text_red" id="CompleteSingleAttempt">@ViewBag.verify_complete_single_attempt</td>
+                                <td class="db_content db_text_blue" id="CompleteMultipleAttempt">@ViewBag.verify_complete_multiple_attempt</td>
+                                <td class="db_content db_ts</text_green" id="AverageCompleteUsers">@ViewBag.verify_average_completed_users</td>*@
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <div class="top_header">
-                        <div class="row">
-                            <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12 text-left">
-                                <h1 class="db_header db_text_green">Verification Dropped</h1>
+                        <div class="top_header">
+                            <div class="row">
+                                <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12 text-left">
+                                    <h1 class="db_header db_text_green">Verification Dropped</h1>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <div class="top_header">
-                        <div class="row">
-                            <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12">
-                                <table class="table table-borderless">
-                                    <thead>
-                                        <tr>
-                                            <th class="db_header db_text_red db_cell_width">First Attempt</th>
-                                            <th class="db_header db_text_blue db_cell_width">Multiple Attempts</th>
-                                            <th class="db_header db_text_green db_cell_width">Average Attempts</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td class="db_content db_text_red" id="VerifyDropSingleAttempt">0</td>
-                                            <td class="db_content db_text_blue" id="VerifyDropMultipleAttempt">0</td>
-                                            <td class="db_content db_text_green" id="VerifyAverageDroppedUsers">0</td>
-                                            @*<td class="db_content db_text_red" id="DropSingleAttempt">@ViewBag.verify_drop_single_attempt</td>
-                            <td class="db_content db_text_blue" id="DropMultipleAttempt">@ViewBag.verify_drop_multiple_attempt</td>
-                            <td class="db_content db_text_green" id="AverageDroppedUsers">@ViewBag.verify_average_dropped_users</td>*@
-                                        </tr>
-                                    </tbody>
-                                </table>
+                        <div class="top_header">
+                            <div class="row">
+                                <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12">
+                                    <table class="table table-borderless">
+                                        <thead>
+                                            <tr>
+                                                <th class="db_header db_text_red db_cell_width">First Attempt</th>
+                                                <th class="db_header db_text_blue db_cell_width">Multiple Attempts</th>
+                                                <th class="db_header db_text_green db_cell_width">Average Attempts</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td class="db_content db_text_red" id="VerifyDropSingleAttempt">0</td>
+                                                <td class="db_content db_text_blue" id="VerifyDropMultipleAttempt">0</td>
+                                                <td class="db_content db_text_green" id="VerifyAverageDroppedUsers">0</td>
+                                                @*<td class="db_content db_text_red" id="DropSingleAttempt">@ViewBag.verify_drop_single_attempt</td>
+                                <td class="db_content db_text_blue" id="DropMultipleAttempt">@ViewBag.verify_drop_multiple_attempt</td>
+                                <td class="db_content db_text_green" id="AverageDroppedUsers">@ViewBag.verify_average_dropped_users</td>*@
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <div class="top_header">
-                        <div class="row">
-                            <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12 text-left">
-                                <h1 class="db_header db_text_green">Number of Attempts for Verification</h1>
+                        <div class="top_header">
+                            <div class="row">
+                                <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12 text-left">
+                                    <h1 class="db_header db_text_green">Number of Attempts for Verification</h1>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <div class="top_header">
-                        <div class="row">
-                            <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12">
-                                <table class="table table-borderless">
-                                    <thead>
-                                        <tr>
-                                            <th class="db_header db_text_red db_cell_width">Successful Attempts</th>
-                                            <th class="db_header db_text_blue db_cell_width">Failed Attempts</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td class="db_content db_text_red" id="VerifySuccessfulAttempts">0</td>
-                                            <td class="db_content db_text_blue" id="VerifyFailureAttempts">0</td>
-                                            @*<td class="db_content db_text_red" id="SuccessfulAttempts">@ViewBag.verify_successful_attempts</td>
-    <td class="db_content db_text_blue" id="FailureAttempts">@ViewBag.verify_failed_attempts</td>*@
-                                        </tr>
-                                    </tbody>
-                                </table>
+                        <div class="top_header">
+                            <div class="row">
+                                <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12">
+                                    <table class="table table-borderless">
+                                        <thead>
+                                            <tr>
+                                                <th class="db_header db_text_red db_cell_width">Successful Attempts</th>
+                                                <th class="db_header db_text_blue db_cell_width">Failed Attempts</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td class="db_content db_text_red" id="VerifySuccessfulAttempts">0</td>
+                                                <td class="db_content db_text_blue" id="VerifyFailureAttempts">0</td>
+                                                @*<td class="db_content db_text_red" id="SuccessfulAttempts">@ViewBag.verify_successful_attempts</td>
+                                <td class="db_content db_text_blue" id="FailureAttempts">@ViewBag.verify_failed_attempts</td>*@
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
+                        <div class="top_header">
+                            <div class="row">
+                                <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12 text-left">
+                                    <h1 class="db_header db_text_green">Registration and Verification Done</h1>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="top_header">
+                            <div class="row">
+                                <div class="col-12 col-sm-12 col-xs-12 col-md-12 col-lg-12 col-xl-12">
+                                    <table class="table table-borderless">
+                                        <tbody>
+                                            <tr>
+                                                <td class="db_content db_text_red" id="RegVerifyDone">0</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
                 </div>
-            </div>
-            <!--/gx-wrapper-->
-                        <div id="alert_popup_div"></div>
-                        <!-- Footer -->
-                        <footer class="gx-footer page_header">
-                            <div class="d-flex flex-row justify-content-between">
-                                <p> Copyright Kotak Mahindra Bank Limited. © 2019</p>
-                            </div>
-                        </footer>
-                        <!-- /footer -->
+                <!--/gx-wrapper-->
+                <div id="alert_popup_div"></div>
+                <!-- Footer -->
+                <footer class="gx-footer page_header">
+                    <div class="d-flex flex-row justify-content-between">
+                        <p> Copyright Kotak Mahindra Bank Limited. © 2019</p>
                     </div>
+                </footer>
+                <!-- /footer -->
+            </div>
             <!-- /main content -->
         </div>
         <!-- /main container -->
@@ -561,12 +598,13 @@
     <!--Big Slide JQuery-->
     <script src="~/Audit_assets/node_modules/bigslide/dist/bigSlide.min.js"></script>
     <!--Over all Page JQuery-->
-    <script src="~/Audit_assets/js/audit_log_scripts.js"></script>
+    <script src="~/Audit_assets/js/audit_log_scripts.js?v=@DateTime.Now.ToString("ddMMyyyy_HHmmss_ffffff")"></script>
     <!--Custom JQuery-->
     <script src="~/Audit_assets/js/functions.js"></script>
     <!--Pagination Scripts-->
     <script src="~/Audit_assets/js/kotak_pagination.js"></script>
     <!--JS Common functions-->
     <script src="~/Audit_assets/js/js_common_functions.js"></script>
+    <script src="~/Audit_assets/js/datatables.min.js"></script>
 </body>
 </html>
