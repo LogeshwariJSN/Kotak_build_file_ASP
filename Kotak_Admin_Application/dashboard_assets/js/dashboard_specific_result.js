@@ -80,7 +80,7 @@ function get_register_success_page(event_id, resultsid, channelid, f, t, offset_
                                 var thumbnail_image_html = "", verify_button_html = "", failure_at="", result_reason="";
                                 var get_event = JSON.parse(send_data).event_id == "1" ? "Registration" : "Verification";
                                 if (response.Data.DashboardSPecificResultData[i].ThumbnailImage != "" || response.Data.DashboardSPecificResultData[i].ThumbnailImage != null) {
-                                    thumbnail_image_html = '<img style="width: 100px; height: 100px; border - radius: 50 % " src="data: image / jpeg; base64, ' + response.Data.DashboardSPecificResultData[i].ThumbnailImage + '" onclick="ModalboxImage(this)" />';
+                                    thumbnail_image_html = '<img style="width:100px; height:100px; border - radius:50% " src=" ' + response.Data.DashboardSPecificResultData[i].ThumbnailImage + '" onclick="ModalboxImage(this)" />';
                                 }
 
                                 //Verify Button
