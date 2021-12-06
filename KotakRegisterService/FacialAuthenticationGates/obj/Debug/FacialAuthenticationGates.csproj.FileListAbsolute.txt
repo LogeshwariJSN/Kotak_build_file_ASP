@@ -1,0 +1,1441 @@
+D:\Kotak Facial Authentication\FacialAuthenticationGates\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll
+D:\Kotak Facial Authentication\FacialAuthenticationGates\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.pdb
+D:\Kotak Facial Authentication\FacialAuthenticationGates\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csprojAssemblyReference.cache
+D:\Kotak Facial Authentication\FacialAuthenticationGates\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CoreCompileInputs.cache
+D:\Kotak Facial Authentication\FacialAuthenticationGates\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.dll
+D:\Kotak Facial Authentication\FacialAuthenticationGates\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.pdb
+G:\KOTAK\KotakFacadeService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll.config
+G:\KOTAK\KotakFacadeService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll
+G:\KOTAK\KotakFacadeService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.pdb
+G:\KOTAK\KotakFacadeService\FacialAuthenticationGates\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\KOTAK\KotakFacadeService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csprojAssemblyReference.cache
+G:\KOTAK\KotakFacadeService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CoreCompileInputs.cache
+G:\KOTAK\KotakFacadeService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CopyComplete
+G:\KOTAK\KotakFacadeService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.dll
+G:\KOTAK\KotakFacadeService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.pdb
+G:\KOTAK\KOTAK_MainApps\KotakFacadeService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll.config
+G:\KOTAK\KOTAK_MainApps\KotakFacadeService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacadeService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.pdb
+G:\KOTAK\KOTAK_MainApps\KotakFacadeService\FacialAuthenticationGates\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacadeService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacadeService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacadeService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacadeService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacadeService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CoreCompileInputs.cache
+G:\KOTAK\KOTAK_MainApps\KotakFacadeService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CopyComplete
+G:\KOTAK\KOTAK_MainApps\KotakFacadeService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacadeService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.pdb
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll.config
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.pdb
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\netstandard.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.AppContext.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Collections.Concurrent.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Collections.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Collections.NonGeneric.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Collections.Specialized.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.ComponentModel.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.ComponentModel.Primitives.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Console.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Data.Common.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Contracts.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Debug.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Process.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tools.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tracing.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Drawing.Primitives.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Dynamic.Runtime.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Globalization.Calendars.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Globalization.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Globalization.Extensions.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.Compression.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.IsolatedStorage.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.Pipes.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Linq.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Linq.Expressions.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Linq.Parallel.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Linq.Queryable.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.Http.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.NameResolution.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.NetworkInformation.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.Ping.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.Primitives.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.Requests.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.Security.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.Sockets.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.Client.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.ObjectModel.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Reflection.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Reflection.Extensions.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Reflection.Primitives.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Resources.Reader.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Resources.ResourceManager.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Resources.Writer.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.Extensions.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.Handles.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.Numerics.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.Claims.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.Principal.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.SecureString.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Text.RegularExpressions.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Threading.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Threading.Overlapped.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Threading.Thread.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Threading.ThreadPool.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Threading.Timer.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.ValueTuple.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Xml.ReaderWriter.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Xml.XDocument.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Xml.XmlDocument.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Xml.XmlSerializer.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\Crc32C.NET.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\DnsClient.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\RestSharp.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\SharpCompress.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\Snappy.NET.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Buffers.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\Crc32C.NET.xml
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\DnsClient.xml
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.xml
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.xml
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.xml
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.xml
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\RestSharp.xml
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\Snappy.NET.xml
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Buffers.xml
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csprojAssemblyReference.cache
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CoreCompileInputs.cache
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CopyComplete
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.pdb
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\DataAccessHandler.pdb
+G:\KOTAK\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll.config
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CoreCompileInputs.cache
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll.config
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.pdb
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\netstandard.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.AppContext.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Collections.Concurrent.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Collections.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Collections.NonGeneric.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Collections.Specialized.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.ComponentModel.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Console.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Data.Common.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Debug.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Process.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tools.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Drawing.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Dynamic.Runtime.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Globalization.Calendars.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Globalization.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Globalization.Extensions.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.Compression.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.Pipes.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Linq.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Linq.Expressions.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Linq.Parallel.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Linq.Queryable.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.Http.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.NameResolution.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.NetworkInformation.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.Ping.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.Requests.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.Security.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.Sockets.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.ObjectModel.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Reflection.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Reflection.Extensions.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Reflection.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Resources.Reader.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Resources.ResourceManager.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Resources.Writer.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.Extensions.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.Handles.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.Numerics.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.Claims.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.Principal.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Security.SecureString.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Text.RegularExpressions.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Threading.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Threading.Overlapped.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Threading.Thread.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Threading.ThreadPool.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Threading.Timer.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.ValueTuple.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Xml.XDocument.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Xml.XmlDocument.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\Crc32C.NET.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\DnsClient.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\RestSharp.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\SharpCompress.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\Snappy.NET.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Buffers.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\DataAccessHandler.pdb
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll.config
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\Crc32C.NET.xml
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\DnsClient.xml
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.xml
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.xml
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.xml
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.xml
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\RestSharp.xml
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\Snappy.NET.xml
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\bin\Debug\System.Buffers.xml
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CopyComplete
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.dll
+F:\Kotak Live\C#MVCWebAPP\Kotak_Iteration1\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.pdb
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll.config
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.pdb
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\netstandard.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.AppContext.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Collections.Concurrent.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Collections.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Collections.NonGeneric.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Collections.Specialized.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Console.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Data.Common.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Debug.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Process.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tools.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Drawing.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Dynamic.Runtime.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Globalization.Calendars.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Globalization.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Globalization.Extensions.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.Pipes.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Linq.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Linq.Expressions.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Linq.Parallel.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Linq.Queryable.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Http.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.NameResolution.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.NetworkInformation.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Ping.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Requests.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Security.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Sockets.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ObjectModel.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Reflection.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Reflection.Extensions.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Reflection.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Resources.Reader.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Resources.ResourceManager.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Resources.Writer.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Extensions.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Handles.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Numerics.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Claims.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Principal.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.SecureString.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Text.RegularExpressions.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Overlapped.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Thread.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.ThreadPool.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Timer.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ValueTuple.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XDocument.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlDocument.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DnsClient.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\RestSharp.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\SharpCompress.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Snappy.NET.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Buffers.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.pdb
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll.config
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.xml
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DnsClient.xml
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.xml
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.xml
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.xml
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.xml
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.xml
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\RestSharp.xml
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Snappy.NET.xml
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Buffers.xml
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csprojAssemblyReference.cache
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CoreCompileInputs.cache
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CopyComplete
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.dll
+F:\Kotak Live\C#MVCWebAPP\WebService\Final\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.pdb
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll.config
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.pdb
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\netstandard.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.AppContext.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Collections.Concurrent.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Collections.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Collections.NonGeneric.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Collections.Specialized.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Console.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Data.Common.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Contracts.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Debug.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Process.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tools.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tracing.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Drawing.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Dynamic.Runtime.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Globalization.Calendars.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Globalization.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Globalization.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.IsolatedStorage.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.Pipes.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Linq.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Linq.Expressions.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Linq.Parallel.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Linq.Queryable.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Http.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.NameResolution.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.NetworkInformation.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Ping.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Requests.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Security.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Sockets.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.Client.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ObjectModel.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Reflection.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Reflection.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Reflection.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Resources.Reader.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Resources.ResourceManager.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Resources.Writer.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Handles.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Numerics.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Claims.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Principal.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.SecureString.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Text.RegularExpressions.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Overlapped.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Thread.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.ThreadPool.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Timer.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ValueTuple.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.ReaderWriter.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XDocument.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlDocument.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlSerializer.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DnsClient.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\RestSharp.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\SharpCompress.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Snappy.NET.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Buffers.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.pdb
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll.config
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.xml
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DnsClient.xml
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.xml
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.xml
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.xml
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.xml
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.xml
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\RestSharp.xml
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Snappy.NET.xml
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Buffers.xml
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csprojAssemblyReference.cache
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CoreCompileInputs.cache
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CopyComplete
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.dll
+G:\KOTAK\KOTAK_MainApps\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.pdb
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll.config
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.pdb
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\netstandard.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.AppContext.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Collections.Concurrent.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Collections.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Collections.NonGeneric.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Collections.Specialized.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Console.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Data.Common.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Debug.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Process.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tools.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Drawing.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Dynamic.Runtime.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Globalization.Calendars.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Globalization.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Globalization.Extensions.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.Pipes.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Linq.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Linq.Expressions.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Linq.Parallel.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Linq.Queryable.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Http.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.NameResolution.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.NetworkInformation.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Ping.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Requests.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Security.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.Sockets.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ObjectModel.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Reflection.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Reflection.Extensions.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Reflection.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Resources.Reader.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Resources.ResourceManager.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Resources.Writer.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Extensions.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Handles.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Numerics.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Claims.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.Principal.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Security.SecureString.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Text.RegularExpressions.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Overlapped.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Thread.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.ThreadPool.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Threading.Timer.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.ValueTuple.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XDocument.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlDocument.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DnsClient.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\RestSharp.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\SharpCompress.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Snappy.NET.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Buffers.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.pdb
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll.config
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.xml
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\DnsClient.xml
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.xml
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.xml
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.xml
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.xml
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.xml
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\RestSharp.xml
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\Snappy.NET.xml
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\bin\Debug\System.Buffers.xml
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csprojAssemblyReference.cache
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CoreCompileInputs.cache
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CopyComplete
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.dll
+F:\Kotak Live\C#MVCWebAPP\Latest Web Service\KotakFacialAuthenticationRestWebService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.pdb
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll.config
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.pdb
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\netstandard.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.AppContext.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Collections.Concurrent.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Collections.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Collections.NonGeneric.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Collections.Specialized.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Console.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Data.Common.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Contracts.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Debug.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Process.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tools.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tracing.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Drawing.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Dynamic.Runtime.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Globalization.Calendars.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Globalization.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Globalization.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.IsolatedStorage.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.Pipes.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Linq.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Linq.Expressions.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Linq.Parallel.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Linq.Queryable.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.Http.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.NameResolution.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.NetworkInformation.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.Ping.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.Requests.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.Security.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.Sockets.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.Client.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.ObjectModel.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Reflection.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Reflection.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Reflection.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Resources.Reader.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Resources.ResourceManager.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Resources.Writer.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.Handles.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.Numerics.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.Claims.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.Principal.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.SecureString.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Text.RegularExpressions.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Threading.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Threading.Overlapped.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Threading.Thread.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Threading.ThreadPool.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Threading.Timer.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.ValueTuple.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Xml.ReaderWriter.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Xml.XDocument.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlDocument.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlSerializer.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\DnsClient.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\RestSharp.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\SharpCompress.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Snappy.NET.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Buffers.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.pdb
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll.config
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.xml
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\DnsClient.xml
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.xml
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.xml
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.xml
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.xml
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.xml
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\RestSharp.xml
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Snappy.NET.xml
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Buffers.xml
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csprojAssemblyReference.cache
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CoreCompileInputs.cache
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CopyComplete
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.dll
+G:\KOTAK\KOTAK_MainApps\KotakRegistrationService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.pdb
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll.config
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.pdb
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\netstandard.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.AppContext.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Collections.Concurrent.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Collections.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Collections.NonGeneric.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Collections.Specialized.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Console.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Data.Common.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Contracts.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Debug.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Process.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tools.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tracing.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Drawing.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Dynamic.Runtime.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Globalization.Calendars.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Globalization.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Globalization.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.IsolatedStorage.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.Pipes.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Linq.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Linq.Expressions.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Linq.Parallel.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Linq.Queryable.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.Http.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.NameResolution.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.NetworkInformation.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.Ping.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.Requests.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.Security.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.Sockets.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.Client.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.ObjectModel.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Reflection.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Reflection.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Reflection.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Resources.Reader.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Resources.ResourceManager.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Resources.Writer.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.Handles.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.Numerics.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.Claims.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.Principal.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Security.SecureString.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Text.RegularExpressions.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Threading.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Threading.Overlapped.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Threading.Thread.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Threading.ThreadPool.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Threading.Timer.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.ValueTuple.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Xml.ReaderWriter.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Xml.XDocument.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlDocument.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlSerializer.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\DnsClient.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\RestSharp.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\SharpCompress.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Snappy.NET.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Buffers.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.pdb
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll.config
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.xml
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\DnsClient.xml
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.xml
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.xml
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.xml
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.xml
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.xml
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\RestSharp.xml
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\Snappy.NET.xml
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\bin\Debug\System.Buffers.xml
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csprojAssemblyReference.cache
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CoreCompileInputs.cache
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CopyComplete
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakRegistrationService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.pdb
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll.config
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.pdb
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\netstandard.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.AppContext.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Collections.Concurrent.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Collections.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Collections.NonGeneric.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Collections.Specialized.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.ComponentModel.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.ComponentModel.Primitives.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Console.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Data.Common.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Contracts.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Debug.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Process.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tools.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tracing.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Drawing.Primitives.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Dynamic.Runtime.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Globalization.Calendars.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Globalization.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Globalization.Extensions.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.IO.Compression.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.IO.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.IO.IsolatedStorage.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.IO.Pipes.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Linq.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Linq.Expressions.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Linq.Parallel.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Linq.Queryable.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Net.Http.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Net.NameResolution.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Net.NetworkInformation.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Net.Ping.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Net.Primitives.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Net.Requests.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Net.Security.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Net.Sockets.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.Client.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.ObjectModel.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Reflection.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Reflection.Extensions.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Reflection.Primitives.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Resources.Reader.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Resources.ResourceManager.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Resources.Writer.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Runtime.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Runtime.Extensions.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Runtime.Handles.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Runtime.Numerics.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Security.Claims.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Security.Principal.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Security.SecureString.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Text.RegularExpressions.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Threading.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Threading.Overlapped.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Threading.Thread.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Threading.ThreadPool.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Threading.Timer.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.ValueTuple.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Xml.ReaderWriter.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Xml.XDocument.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Xml.XmlDocument.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Xml.XmlSerializer.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\Crc32C.NET.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\DnsClient.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\RestSharp.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\SharpCompress.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\Snappy.NET.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Buffers.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\DataAccessHandler.pdb
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll.config
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\Crc32C.NET.xml
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\DnsClient.xml
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.xml
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.xml
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.xml
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.xml
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.xml
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\RestSharp.xml
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\Snappy.NET.xml
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\bin\Debug\System.Buffers.xml
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csprojAssemblyReference.cache
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CoreCompileInputs.cache
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CopyComplete
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.dll
+G:\Kotak_New_Approach\KotakRegistrationService_New\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.pdb
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll.config
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.pdb
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\netstandard.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.AppContext.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Collections.Concurrent.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Collections.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Collections.NonGeneric.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Collections.Specialized.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Console.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Data.Common.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Debug.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Process.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tools.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Drawing.Primitives.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Dynamic.Runtime.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Globalization.Calendars.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Globalization.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Globalization.Extensions.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.Pipes.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Linq.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Linq.Expressions.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Linq.Parallel.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Linq.Queryable.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Http.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.NameResolution.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.NetworkInformation.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Ping.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Primitives.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Requests.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Security.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Sockets.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ObjectModel.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Reflection.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Reflection.Extensions.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Reflection.Primitives.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Resources.Reader.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Resources.ResourceManager.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Resources.Writer.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Extensions.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Handles.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Numerics.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Claims.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Principal.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.SecureString.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Text.RegularExpressions.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Overlapped.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Thread.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.ThreadPool.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Timer.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ValueTuple.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XDocument.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlDocument.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DnsClient.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\RestSharp.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\SharpCompress.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Snappy.NET.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Buffers.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.pdb
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll.config
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.xml
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DnsClient.xml
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.xml
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.xml
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.xml
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.xml
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.xml
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\RestSharp.xml
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Snappy.NET.xml
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Buffers.xml
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csprojAssemblyReference.cache
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CoreCompileInputs.cache
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CopyComplete
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.dll
+F:\Kotak Live\Test Report\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.pdb
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll.config
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.pdb
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\netstandard.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.AppContext.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Collections.Concurrent.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Collections.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Collections.NonGeneric.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Collections.Specialized.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.Primitives.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Console.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Data.Common.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Contracts.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Debug.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Process.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tools.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tracing.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Drawing.Primitives.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Dynamic.Runtime.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Globalization.Calendars.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Globalization.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Globalization.Extensions.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.IsolatedStorage.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.Pipes.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Linq.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Linq.Expressions.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Linq.Parallel.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Linq.Queryable.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Http.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.NameResolution.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.NetworkInformation.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Ping.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Primitives.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Requests.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Security.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Sockets.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.Client.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ObjectModel.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Reflection.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Reflection.Extensions.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Reflection.Primitives.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Resources.Reader.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Resources.ResourceManager.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Resources.Writer.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Extensions.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Handles.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Numerics.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Claims.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Principal.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.SecureString.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Text.RegularExpressions.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Overlapped.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Thread.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.ThreadPool.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Timer.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ValueTuple.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.ReaderWriter.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XDocument.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlDocument.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlSerializer.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DnsClient.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\RestSharp.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\SharpCompress.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Snappy.NET.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Buffers.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.pdb
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll.config
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.xml
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DnsClient.xml
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.xml
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.xml
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.xml
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.xml
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.xml
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\RestSharp.xml
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Snappy.NET.xml
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Buffers.xml
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csprojAssemblyReference.cache
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CoreCompileInputs.cache
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CopyComplete
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.dll
+G:\Sathya_JSN\KMBL-Facial-Authentication-V2\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.pdb
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll.config
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\FacialAuthenticationGates.pdb
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\netstandard.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.AppContext.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Collections.Concurrent.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Collections.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Collections.NonGeneric.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Collections.Specialized.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Console.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Data.Common.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Debug.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Process.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tools.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Drawing.Primitives.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Dynamic.Runtime.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Globalization.Calendars.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Globalization.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Globalization.Extensions.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.Pipes.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Linq.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Linq.Expressions.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Linq.Parallel.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Linq.Queryable.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Http.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.NameResolution.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.NetworkInformation.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Ping.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Primitives.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Requests.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Security.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.Sockets.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Net.WebSockets.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ObjectModel.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Reflection.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Reflection.Extensions.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Reflection.Primitives.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Resources.Reader.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Resources.ResourceManager.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Resources.Writer.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Extensions.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Handles.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Numerics.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Claims.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.Principal.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Security.SecureString.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Text.RegularExpressions.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Overlapped.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Thread.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.ThreadPool.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Threading.Timer.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.ValueTuple.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XDocument.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlDocument.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DnsClient.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\RestSharp.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\SharpCompress.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Snappy.NET.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Buffers.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.pdb
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DataAccessHandler.dll.config
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Crc32C.NET.xml
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\DnsClient.xml
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Bson.xml
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.xml
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.Core.xml
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\MongoDB.Driver.GridFS.xml
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Newtonsoft.Json.xml
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\RestSharp.xml
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\Snappy.NET.xml
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\bin\Debug\System.Buffers.xml
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csprojAssemblyReference.cache
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CoreCompileInputs.cache
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.csproj.CopyComplete
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.dll
+D:\Logi\Kotak\Code\Kotak\KMBLServicesV2\C#\KotakRegisterService\FacialAuthenticationGates\obj\Debug\FacialAuthenticationGates.pdb
