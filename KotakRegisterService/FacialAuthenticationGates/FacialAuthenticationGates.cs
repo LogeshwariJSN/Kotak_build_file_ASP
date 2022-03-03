@@ -4,6 +4,8 @@ using System.Data;
 using System.Collections.Generic;
 using System;
 using System.Configuration;
+using Newtonsoft.Json.Linq;
+using System.Text;
 
 namespace KMBL.StepupAuthentication.CoreComponents
 {
@@ -42,7 +44,7 @@ namespace KMBL.StepupAuthentication.CoreComponents
     {
         public string crn { get; set; }
         public int customer_registration_checker_id { get; set; }
-        public string rate_experience { get; set; }
+        public int rate_experience { get; set; }
         public string suggestion_text { get; set; }
         public int question_id { get; set; }
         public int answer_id { get; set; }
@@ -598,6 +600,64 @@ namespace KMBL.StepupAuthentication.CoreComponents
             dbManager.CloseConnection(connection);
             
             return ad;
+        }
+
+        public int InsertUserSurveyData(string CRN, int customer_registration_checker_id, int rate_experience, string suggestion_text)
+        {
+            int get_user_survey_id = 0;
+            var dbManager = new DBManager("DBConnectionweb");
+            OracleDataReader reader = null;
+            OracleConnection connection = null;
+          
+            var parameters = new List<OracleParameter>();
+            parameters.Add(dbManager.CreateParameter("v_crn", CRN, OracleDbType.NVarchar2));
+            parameters.Add(dbManager.CreateParameter("v_customer_registration_checker_id", customer_registration_checker_id, OracleDbType.Int32));
+            parameters.Add(dbManager.CreateParameter("v_rate_experience", rate_experience, OracleDbType.Int32));
+            parameters.Add(dbManager.CreateParameter("v_suggestion_text", suggestion_text, OracleDbType.Varchar2));
+            parameters.Add(dbManager.CreateParameter("v_user_survey_id", OracleDbType.Int32, ParameterDirection.Output));
+
+            OracleCommand objCmd = dbManager.GetCommand("insert_user_survey_data", CommandType.StoredProcedure, parameters.ToArray(), out connection);
+            connection.Open();
+            reader = objCmd.ExecuteReader();
+            reader.Close();
+            dbManager.CloseConnection(connection);
+            
+            get_user_survey_id =Convert.ToInt32(objCmd.Parameters["v_user_survey_id"]);
+
+
+
+            return get_user_survey_id;
+        }
+
+        public int InsertSurveyAnswers(JObject json, int user_survey_id)
+        {
+            StringBuilder sCommand = new StringBuilder("INSERT INTO user_survey_detail (user_survey_id, question_id, answer_id) VALUES ");
+
+            List<string> Rows = new List<string>();
+            JArray ja = (JArray)json["answer_data"];
+            for (int i = 0; i < ja.Count; i++)
+            {
+                Rows.Add(string.Format("('{0}','{1}','{2}')", user_survey_id, ja[i]["question_id"], ja[i]["answer_id"]));
+            }
+            sCommand.Append(string.Join(",", Rows));
+            sCommand.Append(";");
+
+            var dbManager = new DBManager("DBConnectionweb");
+            
+            OracleConnection connection = null;
+
+            OracleCommand objCmd = new OracleCommand();
+
+            objCmd.Connection = connection;
+
+            objCmd.CommandText = sCommand.ToString();
+
+            connection.Open();
+            objCmd.ExecuteReader();
+           
+            dbManager.CloseConnection(connection);
+
+            return 200;
         }
 
     }

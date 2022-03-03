@@ -96,13 +96,43 @@ namespace KotakFacialAuthenticationRestWebService.Controllers
             
         }
 
-        [HttpPost]
+        [HttpGet]
         [Route("GetSurveyQuestionAndAnswer")]
-        public object GetSurveyQuestionAndAnswer([FromBody] JObject json)
+        public object GetSurveyQuestionAndAnswer()
         {
-            ExecutingSP es = new ExecutingSP();
-            survey_question_and_answer sqaa = es.survey_question_and_answer();
-            return sqaa;
+            try
+            {
+                ExecutingSP es = new ExecutingSP();
+                survey_question_and_answer sqaa = es.survey_question_and_answer();
+                return sqaa;
+            }
+            catch(Exception e)
+            {
+                return ExceptionAccured();
+            }
+        }
+
+        [HttpGet]
+        [Route("GetSurveyUserAnswer")]
+        public object GetSurveyUserAnswer(JObject json)
+        {
+            //[FromBody] JObject json
+            try
+            {
+                ExecutingSP es = new ExecutingSP();
+                int get_user_survey_id = es.InsertUserSurveyData(json["CRN"].ToString(), Convert.ToInt32(json["customer_registration_checker_id"]), Convert.ToInt32(json["rate_experience"]), json["suggestion_text"].ToString());
+                int status_code = es.InsertSurveyAnswers(json, get_user_survey_id);
+                string result = "{\"StatusCode\": 200}";
+                HttpResponseMessage Response = new HttpResponseMessage(HttpStatusCode.OK); //200
+                Response.Content = new StringContent(result);
+                Response.Content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
+                return Response;
+                
+            }
+            catch(Exception e)
+            {
+                return ExceptionAccured();
+            }
         }
 
         [HttpPost]
