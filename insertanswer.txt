@@ -1,0 +1,53 @@
+public int InsertSurveyAnswers(JObject json, int user_survey_id)
+{
+using (var connection = new OracleConnection(DBConnection))
+{
+connection.Open();
+JArray ja = (JArray)json["answer_data"];
+int[] user_survey_ids = new int[ja.Count];
+int[] question_ids = new int[ja.Count];
+string[] answer_ids = new string[ja.Count];
+
+
+
+for (int i = 0; i < ja.Count; i++)
+{
+user_survey_ids[i] = user_survey_id;
+question_ids[i] = Convert.ToInt32(ja[i]["question_id"]);
+answer_ids[i] = Convert.ToString(ja[i]["answer_id"]);
+}
+OracleParameter user_survey_id_set = new OracleParameter();
+user_survey_id_set.OracleDbType = OracleDbType.Int32;
+user_survey_id_set.Value = user_survey_ids;
+
+
+
+OracleParameter question_id = new OracleParameter();
+question_id.OracleDbType = OracleDbType.Int32;
+question_id.Value = question_ids;
+
+
+
+OracleParameter answer_id = new OracleParameter();
+answer_id.OracleDbType = OracleDbType.Varchar2;
+answer_id.Value = answer_ids;
+
+
+
+// create command and set properties
+OracleCommand cmd = connection.CreateCommand();
+cmd.CommandText = "INSERT INTO user_survey_detail (user_survey_id, question_id, answer_id) VALUES (:1, :2, :3)";
+cmd.ArrayBindCount = user_survey_ids.Length;
+cmd.Parameters.Add(user_survey_id_set);
+cmd.Parameters.Add(question_id);
+cmd.Parameters.Add(answer_id);
+cmd.ExecuteNonQuery();
+
+
+
+}
+
+
+
+return 200;
+}
