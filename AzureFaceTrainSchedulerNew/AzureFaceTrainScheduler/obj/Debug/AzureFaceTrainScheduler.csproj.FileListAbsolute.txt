@@ -1,0 +1,78 @@
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\AzureFaceTrainScheduler.exe.config
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\AzureFaceTrainScheduler.exe.manifest
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\AzureFaceTrainScheduler.application
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\AzureFaceTrainScheduler.exe
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\AzureFaceTrainScheduler.pdb
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\DataAccessHandler.dll
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\RestSharp.dll
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Buffers.dll
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Memory.dll
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Text.Json.dll
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\DataAccessHandler.pdb
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\DataAccessHandler.dll.config
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\RestSharp.xml
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Buffers.xml
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Memory.xml
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Text.Json.xml
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.TrustInfo.xml
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.exe.manifest
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.application
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.csproj.CopyComplete
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.exe
+C:\Users\PC\Downloads\Scheduler (1)\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.pdb
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\AzureFaceTrainScheduler.exe.config
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\AzureFaceTrainScheduler.exe.manifest
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\AzureFaceTrainScheduler.application
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\AzureFaceTrainScheduler.exe
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\AzureFaceTrainScheduler.pdb
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\DataAccessHandler.dll
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\Newtonsoft.Json.dll
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\RestSharp.dll
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Buffers.dll
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Memory.dll
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Numerics.Vectors.dll
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Text.Encodings.Web.dll
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Text.Json.dll
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.ValueTuple.dll
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\DataAccessHandler.pdb
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\DataAccessHandler.dll.config
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\Newtonsoft.Json.xml
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\RestSharp.xml
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Buffers.xml
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Memory.xml
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Numerics.Vectors.xml
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Text.Encodings.Web.xml
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Text.Json.xml
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\bin\Debug\System.ValueTuple.xml
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.csprojAssemblyReference.cache
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.csproj.CoreCompileInputs.cache
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.TrustInfo.xml
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.exe.manifest
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.application
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.csproj.CopyComplete
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.exe
+D:\Logi\Kotak\Code\Kotak\KMBLAdminV2\AzureFaceTrainSchedulerNew\AzureFaceTrainScheduler\obj\Debug\AzureFaceTrainScheduler.pdb
