@@ -1,0 +1,291 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Kotak Mahindra Bank">
+    <meta name="keywords" content="Kotak Mahindra Bank">
+    <title>Kotak Mahindra Bank</title>
+
+    <!-- CSS Just for demo purpose, don't include it in your project -->
+    <link href="~/dashboard_assets/css/user_style.css" rel="stylesheet" />
+
+    <!-- Site favicon -->
+    <link rel='shortcut icon' type='image/x-icon' href='~/Audit_assets/images/kotak_favicon.ico' />
+
+    <!-- Font Material stylesheet -->
+    <link rel="stylesheet" href="~/Audit_assets/fonts/material-design-iconic-font/css/material-design-iconic-font.min.css">
+
+    <!-- Bootstrap stylesheet -->
+    <link rel="stylesheet" href="~/Audit_assets/css/jumbo-bootstrap.css">
+
+    <!-- Perfect Scrollbar stylesheet -->
+    <link href="~/Audit_assets/node_modules/perfect-scrollbar/css/perfect-scrollbar.css" rel="stylesheet">
+
+    <!-- kotak-core stylesheet -->
+    <link href="~/Audit_assets/css/kotak-core.min.css" rel="stylesheet" />
+
+    <!-- Color-Theme stylesheet -->
+    <link id="override-css-id" href="~/Audit_assets/css/theme-dark-indigo.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="~/dashboard_assets/datatables/datatables.min.css">
+    <link rel="stylesheet" href="~/dashboard_assets/datatables/DataTables-1.10.16/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/dashboard_assets/datatables/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/dashboard_assets/css/font-awesome.min.css">
+
+</head>
+<body id="body" data-theme="dark-indigo">
+    <!-- Loader Backdrop -->
+    <div class="loader-backdrop">
+        <!-- Loader -->
+        <div class="loader">
+            <svg class="circular" viewBox="25 25 50 50">
+                <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"></circle>
+            </svg>
+        </div>
+        <!-- /loader-->
+    </div>
+    <!-- loader backdrop -->
+    <!-- Page container -->
+    <div class="gx-container">
+        <!-- Page Sidebar -->
+        <div id="menu" class="side-nav gx-sidebar">
+            <div class="navbar-expand-lg">
+                <!-- Sidebar header  -->
+                <div class="sidebar-header">
+                    <div class="user-profile">
+                        <img class="img-responsive logo_side_bar" alt="Kotak_Logo" src="~/Audit_assets/images/logo_side_bar.png">
+                    </div>
+                </div>
+                <!-- /sidebar header -->
+                <!-- Main navigation -->
+                <div id="main-menu" class="main-menu navbar-collapse collapse">
+                    <ul class="nav-menu">
+
+                        @if (ViewBag.Status == "Success")
+                        {
+                            <li class="menu no-arrow selected">
+                                <a href="/Home/Dashboard/">
+                                    <span class="nav-text">Dashboard Success Report</span>
+                                </a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="menu no-arrow">
+                                <a href="/Home/Dashboard/">
+                                    <span class="nav-text">Dashboard Success Report</span>
+                                </a>
+                            </li>
+                        }
+                        @if (ViewBag.Status == "Failure")
+                        {
+                            <li class="menu no-arrow selected">
+                                <a href="/Home/Dashboard_Failure/">
+                                    <span class="nav-text">Dashboard Failure Report</span>
+                                </a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="menu no-arrow">
+                                <a href="/Home/Dashboard_Failure/">
+                                    <span class="nav-text">Dashboard Failure Report</span>
+                                </a>
+                            </li>
+                        }
+                        <li class="menu no-arrow">
+                            <a href="/Home/Index/">
+                                <span class="nav-text">Audit Log</span>
+                            </a>
+                        </li>
+                        <li class="menu no-arrow">
+                            <a href="/Home/Clearcrn/">
+                                <span class="nav-text">Clear CRN</span>
+                            </a>
+                        </li>
+                        <li class="menu no-arrow">
+                            <a href="/Home/DataMigration/">
+                                <span class="nav-text">Data Migration</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /main navigation -->
+            </div>
+        </div>
+        <!-- /page sidebar -->
+        <!-- Main Container -->
+        <div class="gx-main-container">
+            <!-- Main Header -->
+            <header class="main-header">
+                <div class="gx-toolbar">
+                    <div class="sidebar-mobile-menu d-block d-lg-none">
+                        <a class="gx-menu-icon menu-toggle" href="#menu">
+                            <span class="menu-icon"></span>
+                        </a>
+                    </div>
+                    <ul class="quick-menu header-notifications ml-auto">
+                        <li class="dropdown">
+                            <a href="javascript:void(0)" data-toggle="dropdown" aria-haspopup="true" class="d-inline-block" aria-expanded="true">
+                                <div class="user-thumb">
+                                    <img alt="My Profile Image" src="~/Audit_assets/images/domnic-brown.jpg"
+                                         class="rounded-circle size-40 user-avatar"><i class="fa fa-angle-down fa_Size"></i>
+                                </div>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right" data-placement="bottom-end" data-x-out-of-boundaries="">
+                                <div class="dropdown-menu-perfectscrollbar1">
+                                    <div class="messages-list">
+                                        <ul class="list-unstyled">
+                                            <li class="media">
+                                                <div class="user-thumb">
+                                                    <i class="fa fa-lock fa_color"></i>
+                                                </div>
+                                                <div class="media-body">
+                                                    <div class="d-flex justify-content-between align-items-center">
+                                                        <h4 class="text-capitalize user-name mb-0">
+                                                            <button id="logout_btn">Logout</button>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </header>
+            <!-- /main header -->
+            <div class="kotak-main-content">
+                <div class="content">
+                    <div class="container-fluid">
+
+                        @*Dashboard_heading*@
+                        <div class="top_header">
+                            <div class="row">
+                                <div class="col-12 col-sm-12 col-xs-12 text-left">
+                                    <h1 id="dashboard_head"></h1>
+                                </div>
+                            </div>
+                        </div>
+
+                       
+                        <div class="table-responsive">
+                            <div class="row mt-3 mb-3" id="top_div">
+                                <div class="col-12 col-sm-12 col-xs-12 col-md-6 col-lg-6 col-xl-6 text-left">
+                                    <p class="mt-3">Showing <span id="top_starting_index">1</span> to <span id="top_ending_index">10</span> of <span id="top_total_count"></span> entries</p>
+
+
+
+                                </div>
+                                <div class="col-12 col-sm-12 col-xs-12 col-md-6 col-lg-6 col-xl-6 text-right">
+                                    <div class="button-group">
+                                        <button type="button" class="pagination_btn btn btn-rounded btn-primary first_btn" title="First" disabled><i class="fa fa-angle-double-left" aria-hidden="true"></i></button>
+                                        <button type="button" class="pagination_btn btn btn-rounded btn-primary previous_btn" title="Previous" disabled><i class="fa fa-angle-left" aria-hidden="true"></i></button>
+                                        <button type="button" class="pagination_btn btn btn-rounded btn-primary next_btn" title="Next"><i class="fa fa-angle-right" aria-hidden="true"></i></button>
+                                        <button type="button" class="pagination_btn btn btn-rounded btn-primary last_btn" title="Last"><i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+
+
+
+                                    </div>
+
+
+
+                                </div>
+                            </div>
+                            <table class="table" id="success_datatable">
+                                <thead><tr></tr></thead>
+                                <tbody></tbody>
+                            </table>
+                            <div class="row mt-3" id="bottom_div">
+                                <div class="col-12 col-sm-12 col-xs-12 col-md-6 col-lg-6 col-xl-6 text-left">
+                                    <p class="mt-3">Showing <span id="bottom_starting_index">1</span> to <span id="bottom_ending_index">10</span> of <span id="bottom_total_count"></span> entries</p>
+                                </div>
+                                <div class="col-12 col-sm-12 col-xs-12 col-md-6 col-lg-6 col-xl-6 text-right">
+                                    <div class="button-group">
+                                        <button type="button" class="pagination_btn btn btn-rounded btn-primary first_btn" title="First" disabled><i class="fa fa-angle-double-left" aria-hidden="true"></i></button>
+                                        <button type="button" class="pagination_btn btn btn-rounded btn-primary previous_btn" title="Previous" disabled><i class="fa fa-angle-left" aria-hidden="true"></i></button>
+                                        <button type="button" class="pagination_btn btn btn-rounded btn-primary next_btn" title="Next"><i class="fa fa-angle-right" aria-hidden="true"></i></button>
+                                        <button type="button" class="pagination_btn btn btn-rounded btn-primary last_btn" title="Last"><i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card text-center" id="no_data_div">
+                                <div class="card-body">
+                                    <p class="text-center pb-0">No Data Available</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                <br>
+                                <footer class="gx-footer page_header">
+                                    <div class="d-flex flex-row justify-content-between">
+                                        <p> Copyright Kotak Mahindra Bank Limited. © 2019</p>
+                                    </div>
+                                </footer>
+
+                            </div>
+                        </div>
+                    </div>
+        <!-- /main container -->
+    </div>
+    <!-- /page container -->
+    <!-- Menu Backdrop -->
+    <div id="alert_popup_div"></div>
+    <!--Load JQuery-->
+    <script src="~/Audit_assets/node_modules/jquery/dist/jquery_v3.6.0.min.js"></script>
+    <!--Bootstrap JQuery-->
+    <script src="~/Audit_assets/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <!--Perfect Scrollbar JQuery-->
+    <script src="~/Audit_assets/node_modules/perfect-scrollbar/dist/perfect-scrollbar.min.js"></script>
+    <!--Big Slide JQuery-->
+    <script src="~/Audit_assets/node_modules/bigslide/dist/bigSlide.min.js"></script>
+    <!--Dashboard JS-->
+    <script src="~/dashboard_assets/js/functions.js"></script>
+    <script src="~/dashboard_assets/js/dashboard_specific_result.js"></script>
+    <!--DataTable JS-->
+    <script src="~/dashboard_assets/datatables/datatables.min.js"></script>
+    <script src="~/dashboard_assets/datatables/DataTables-1.10.16/js/dataTables.bootstrap4.min.js"></script>
+
+    <script>
+        
+        function ErrorModalbox(message) {
+            let html = '<div class="modal show" id="alert_popup" role="dialog" data-keyboard="false" data-backdrop="static"><div class="modal-dialog"><div class="modal-content"><div class="modal-body"><h4 class="text-center" >' + message + '</h4><br><center><button type="button" id="modalButton" class="btn btn-primary"> Okay </button></center></div></div></div></div>';
+
+            document.getElementById("alert_popup_div").innerHTML = html;
+            $('#alert_popup').modal('show');
+            $("#modalButton").click(function () {
+                $('#alert_popup').modal('hide');
+            });
+        }
+
+        function Modalbox(message, image) {
+            let html = '<div class="modal show" id="alert_popup" role="dialog" data-keyboard="false" data-backdrop="static"><div class="modal-dialog"><div class="modal-content"><div style="display:table-cell; vertical-align:middle; text-align:center;" class="modal-body"><img style="max-width: 375px;" src="' + image + '"><br><br><h4 class="text-center" >' + message + '</h4><br><center><button type="button" id="modalButton" class="btn btn-primary"> Okay </button></center></div></div></div></div>';
+
+            document.getElementById("alert_popup_div").innerHTML = html;
+            $('#alert_popup').modal('show');
+            $("#modalButton").click(function () {
+                $('#alert_popup').modal('hide');
+            });
+        }
+
+        //function ModalboxImage(image) {
+        //    let html = '<div class="modal show" id="alert_popup" role="dialog" data-keyboard="false" data-backdrop="static"><div class="modal-dialog"><div class="modal-content"><div style="display:table-cell; vertical-align:middle; text-align:center;" class="modal-body"><img style="max-width: 375px;" src="' + image + '"><br><br><center><button type="button" id="modalButton" class="btn btn-primary"> Close </button></center></div></div></div></div>';
+
+        //    document.getElementById("alert_popup_div").innerHTML = html;
+        //    $('#alert_popup').modal('show');
+        //    $("#modalButton").click(function () {
+        //        $('#alert_popup').modal('hide');
+        //    });
+        //}
+
+        $("#datatable").dataTable({ "aaSorting": [] });
+
+       
+    </script>
+
+</body>
+</html>
