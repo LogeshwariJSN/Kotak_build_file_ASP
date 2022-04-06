@@ -1,0 +1,245 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Kotak Mahindra Bank">
+    <meta name="keywords" content="Kotak Mahindra Bank">
+    <title>Kotak Mahindra Bank</title>
+    <!-- Site favicon -->
+    <link rel='shortcut icon' type='image/x-icon' href='~/Audit_assets/images/kotak_favicon.ico' />
+    <!-- /site favicon -->
+    <!-- Font Material stylesheet -->
+    <link href="~/Audit_assets/fonts/material-design-iconic-font/css/material-design-iconic-font.min.css" rel="stylesheet" />
+
+    <!-- Bootstrap stylesheet -->
+    <link rel="stylesheet" href="~/Audit_assets/css/jumbo-bootstrap.css">
+
+    <!-- Perfect Scrollbar stylesheet -->
+    <link href="~/Audit_assets/node_modules/perfect-scrollbar/css/perfect-scrollbar.css" rel="stylesheet" />
+    <!-- /perfect scrollbar stylesheet -->
+    <!-- kotak-core stylesheet -->
+    <link href="~/Audit_assets/css/kotak-core.min.css" rel="stylesheet" />
+    <!-- /kotak-core stylesheet -->
+    <!-- Color-Theme stylesheet -->
+    <link href="~/Audit_assets/css/theme-dark-indigo.css" rel="stylesheet" />
+    <!-- Color-Theme stylesheet -->
+    <!-- Custom stylesheet -->
+    <link href="~/Audit_assets/css/user_style.css" rel="stylesheet" />
+    <!-- /Custom stylesheet -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body id="body" data-theme="dark-indigo">
+
+    <!-- Loader Backdrop -->
+    <div class="loader-backdrop">
+        <!-- Loader -->
+        <div class="loader">
+            <svg class="circular" viewBox="25 25 50 50">
+                <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"></circle>
+            </svg>
+        </div>
+        <!-- /loader-->
+    </div>
+    <!-- loader backdrop -->
+    <!-- Page container -->
+    <div class="gx-container">
+        <!-- Page Sidebar -->
+        <div id="menu" class="side-nav gx-sidebar">
+            <div class="navbar-expand-lg">
+                <!-- Sidebar header  -->
+                <div class="sidebar-header">
+                    <div class="user-profile">
+                        <img class="img-responsive logo_side_bar" alt="Kotak_Logo" src="~/Audit_assets/images/logo_side_bar.png">
+                    </div>
+                </div>
+                <!-- /sidebar header -->
+                <!-- Main navigation -->
+                <div id="main-menu" class="main-menu navbar-collapse collapse">
+                    <ul class="nav-menu">
+                        <li class="menu no-arrow">
+                            <a href="/Home/Dashboard/">
+                                <span class="nav-text">Dashboard Success Report</span>
+                            </a>
+                        </li>
+                        <li class="menu no-arrow">
+                            <a href="/Home/Dashboard_Failure/">
+                                <span class="nav-text">Dashboard Failure Report</span>
+                            </a>
+                        </li>
+                        <li class="menu no-arrow">
+                            <a href="/Home/Index/">
+                                <span class="nav-text">Audit Log</span>
+                            </a>
+                        </li>
+                        <li class="menu no-arrow">
+                            <a href="/Home/Clearcrn/">
+                                <span class="nav-text">Clear CRN</span>
+                            </a>
+                        </li>
+                        <li class="menu no-arrow selected">
+                            <a href="/Home/DataMigration/">
+                                <span class="nav-text">Data Migration</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /main navigation -->
+            </div>
+        </div>
+        <!-- /page sidebar -->
+        <!-- Main Container -->
+        <div class="gx-main-container">
+            <!-- Main Header -->
+            <header class="main-header">
+                <div class="gx-toolbar">
+                    <div class="sidebar-mobile-menu d-block d-lg-none">
+                        <a class="gx-menu-icon menu-toggle" href="#menu">
+                            <span class="menu-icon"></span>
+                        </a>
+                    </div>
+                    <div class="search-bar right-side-icon bg-transparent d-none d-sm-block">
+                    </div>
+                    <ul class="quick-menu header-notifications ml-auto">
+                        <li class="dropdown">
+                            <a href="javascript:void(0)" data-toggle="dropdown" aria-haspopup="true" class="d-inline-block" aria-expanded="true">
+                                <div class="user-thumb">
+                                    <img alt="Domnic Brown" src="~/Audit_assets/images/domnic-brown.jpg"
+                                         class="rounded-circle size-40 user-avatar">
+                                </div>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right" data-placement="bottom-end" data-x-out-of-boundaries="">
+                                <div class="dropdown-menu-perfectscrollbar1">
+                                    <div class="messages-list">
+                                        <ul class="list-unstyled">
+                                            <li class="media">
+                                                <div class="user-thumb">
+                                                    <i class="fa fa-lock fa_color"></i>
+                                                </div>
+                                                <div class="media-body">
+                                                    <div class="d-flex justify-content-between align-items-center">
+                                                        <h4 class="text-capitalize user-name mb-0">
+                                                            <button id="logout_btn">Logout</button>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </header>
+            <!-- /main header -->
+            <!-- Main Content -->
+            <div class="kotak-main-content">
+                <div class="gx-wrapper">
+                    <div class="animated slideInUpTiny animation-duration-3">
+                        <!--Registration Breadcrumbs start-->
+                        <div class="page-heading d-sm-flex justify-content-sm-between align-items-sm-center mb-3">
+                            <h2 class="title mb-3 mb-sm-0">Data Migration</h2>
+                            <nav class="mb-0 breadcrumb">
+                                <a href="/Home/Dashboard" class="breadcrumb-item">Home</a>
+                                <a href="/Home/DataMigration" class="breadcrumb-item">Data Migration</a>
+                            </nav>
+                        </div>
+
+                        <div class="row ml-3">
+                            <div class="col-6 col-sm-6 col-xs-6 col-md-6 col-lg-6 col-xl-6">
+                                <h3 class="text-center">Customer Records - Current Resource</h3>
+                                <table class="table" id="current_resource_datatable">
+                                    <thead>
+                                        <tr>
+                                            <th>CRN</th>
+                                            <th>Registered At</th>
+                                            <th>Actions</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody></tbody>
+                                </table>
+                                </div>
+
+                            <div class="col-5 col-sm-5 col-xs-5 col-md-5 col-lg-5 col-xl-5">
+                                <h3 class="text-center">Customer Records - New Resource</h3>
+                               <table class="table" id="new_resource_datatable">
+                                    <thead>
+                                        <tr>
+                                            <th>CRN</th>
+                                            <th>Registered At</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody></tbody>
+                                </table>
+
+                                
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <!-- Footer -->
+                <footer class="gx-footer page_header">
+                    <div class="d-flex flex-row justify-content-between">
+                        <p> Copyright Kotak Mahindra Bank Limited. © 2019</p>
+                    </div>
+                </footer>
+                <!-- /footer -->
+            </div>
+            <!-- /main content -->
+        </div>
+        <!-- /main container -->
+    </div>
+    <!-- /page container -->
+    <!-- Menu Backdrop -->
+    <div class="menu-backdrop fade"></div>
+    <!-- /menu backdrop -->
+    @*Success Modal*@
+    <div id="success_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="text-center">Data successfully moved from Current Resource to New Resource</h4>
+                </div>
+
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div>
+
+    @*Failure Modal*@
+    <div id="failure_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="text-center">Something went wrong</h4>
+                </div>
+
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div>
+
+    <!--Load JQuery-->
+    <script src="~/Audit_assets/node_modules/jquery/dist/jquery.min.js"></script>
+
+    <!--Bootstrap JQuery-->
+    <script src="~/Audit_assets/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!--Perfect Scrollbar JQuery-->
+    <script src="~/Audit_assets/node_modules/perfect-scrollbar/dist/perfect-scrollbar.min.js"></script>
+
+    <!--Custom JQuery-->
+    <script src="~/Audit_assets/js/functions.js"></script>
+
+    <script src="~/dashboard_assets/js/data_migration.js?v=@DateTime.Now.ToString("ddMMyyyy_HHmmss_ffffff")"></script>
+</body>
+</html>
